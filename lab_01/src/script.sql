@@ -4,8 +4,7 @@ create table if not exists galaxies
     name text not null,
     galaxy_type text,
     radius float8 check(radius > 0),
-    mass float8 check(mass > 0),
-    absolute_magnitude float8
+    mass float8 check(mass > 0)
 );
 
 create table if not exists planet_systems
@@ -15,7 +14,6 @@ create table if not exists planet_systems
     planets_count int check(planets_count >= 0),
     satelites_count int check(satelites_count >= 0),
     comets_count int check(comets_count >= 0),
-    galaxy_center_distance float8 check(galaxy_center_distance > 0),
     galaxy_id int,
     foreign key (galaxy_id) references galaxies(id)
 );
@@ -36,8 +34,7 @@ create table if not exists stars
 --                                stellar_class == 'T'),
     stellar_class char(1),
     mass float8 check(mass > 0),
-    avrg_diameter float8 check(avrg_diameter > 0),
-    absolute_magnitude float8,
+    photosphere_temperature float8 check(photosphere_temperature > 0),
     planet_system_id int,
     foreign key (planet_system_id) references planet_systems(id)
 );
