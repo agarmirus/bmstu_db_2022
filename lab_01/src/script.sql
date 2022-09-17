@@ -45,13 +45,9 @@ create table if not exists planets
     name text not null,
     avrg_radius float8 check(avrg_radius > 0),
     mass float8 check(mass > 0),
-    star_rotation_time float8 check(star_rotation_time > 0),
-    axis_rotation_time float8 check(axis_rotation_time > 0),
     satelites_count int check(satelites_count > 0),
     planet_system_id int,
-    star_id int,
-    foreign key (planet_system_id) references planet_systems(id),
-    foreign key (star_id) references stars(id)
+    foreign key (planet_system_id) references planet_systems(id)
 );
 
 create table if not exists satelites
@@ -61,7 +57,6 @@ create table if not exists satelites
     avrg_radius float8 check(avrg_radius > 0),
     mass float8 check(mass > 0),
     planet_rotation_time float8 check(planet_rotation_time > 0),
-    axis_rotation_time float8 check(axis_rotation_time > 0),
     planet_id int,
     foreign key (planet_id) references planets(id)
 );
