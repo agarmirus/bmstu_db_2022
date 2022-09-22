@@ -192,7 +192,7 @@ def save_galaxies_data(filename: str, data: dict):
     with open(filename, 'w') as fout:
         for i in data:
             print(
-                "{},{},{},{:.2E},{:.2E}\n".format(
+                "{},{},{},{:.2E},{:.2E}".format(
                 i, data[i][0], data[i][1],
                 data[i][2], data[i][3]
                 ), file=fout)
@@ -201,13 +201,13 @@ def save_galaxies_data(filename: str, data: dict):
 def save_planet_systems_data(filename: str, data: dict):
     with open(filename, 'w') as fout:
         for i in data:
-            print(i, *data[i], sep=',', end='\n', file=fout)
+            print(i, *data[i], sep=',', file=fout)
 
 
 def save_stars_data(filename: str, data: dict):
     with open(filename, 'w') as fout:
         for i in data:
-            print("{},{},{},{:.2E},{:.2E},{}\n".format(
+            print("{},{},{},{:.2E},{:.2E},{}".format(
                 i, data[i][0], data[i][1],
                 data[i][2], data[i][3],
                 data[i][4]
@@ -217,7 +217,7 @@ def save_stars_data(filename: str, data: dict):
 def save_planets_data(filename: str, data: dict):
     with open(filename, 'w') as fout:
         for i in data:
-            print("{},{},{:.2E},{:.2E},{},{}\n".format(
+            print("{},{},{:.2E},{:.2E},{},{}".format(
                 i, data[i][0], data[i][1],
                 data[i][2], data[i][3],
                 data[i][4]
