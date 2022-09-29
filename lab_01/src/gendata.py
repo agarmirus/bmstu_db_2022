@@ -109,8 +109,9 @@ def gen_space_programs(space_programs: dict):
         space_programs[i] = [name, year, workers_count, country, budget]
 
 
-def gen_satellites(satellites: dict):
+def gen_satellites(satellites: dict, astro_objects: dict):
     names = []
+    astro_objects_ids = list(astro_objects.keys())
 
     for i in range(1, 1001):
         name = ""
@@ -124,31 +125,36 @@ def gen_satellites(satellites: dict):
         price = random.randint(MIN_SATELLITE_PRICE, MAX_SATELLITE_PRICE)
         creation_year = random.randint(MIN_SATELLITE_CREATION_YEAR, MAX_SATELLITE_CREATION_YEAR)
         launch_year = creation_year + random.randint(0, MAX_LAUNCH_PERIOD)
+        astro_object_id = random.choice(astro_objects_ids)
 
-        satellites[i] = [name, stlt_type, price, creation_year, launch_year]
+        satellites[i] = [name, stlt_type, price, creation_year, launch_year, astro_object_id]
 
 
-def gen_relationships(relationships: list):
-    fst_keys = []
+def gen_relationships(
+        stlt_prog_rel: list,
+        prog_obj_rel: list,
+        satellites: dict,
+        space_programs: dict
+):
+    space_programs_ids = list(space_programs.keys())
 
-    for i in range(1000):
-        snd_keys_count = random.randint(1, MAX_SND_KEYS_COUNT)
-        snd_keys = []
+    for satellite_id in satellites.keys():
+        astro_object_id = satellites[satellite_id][-1]
+        marked_space_programs = []
 
-        fst_key = None
+        for j in range(1, random.randint(2, 10)):
+            space_program_id = random.choice(space_programs_ids)
 
-        while not fst_key or fst_key in fst_keys:
-            fst_key = random.randint(1, 1000)
+            while space_program_id in marked_space_programs:
+                space_program_id = random.choice(space_programs_ids)
 
-        fst_keys.append(fst_key)
+            prog_stlt = [space_program_id, satellite_id]
+            prog_obj = [space_program_id, astro_object_id]
 
-        for j in range(snd_keys_count):
-            snd_key = None
+            stlt_prog_rel.append(prog_stlt)
 
-            while not snd_key or snd_key in snd_keys:
-                snd_key = random.randint(1, 1000)
-
-            relationships.append([fst_key, snd_key])
+            if prog_obj not in prog_obj_rel:
+                prog_obj_rel.append(prog_obj)
 
 
 def gen_astro_objects(astro_objects: dict, galaxies: dict):
@@ -204,12 +210,11 @@ def main():
     cosmonauts = dict()
 
     gen_galaxies(galaxies)
-    gen_space_programs(space_programs)
-    gen_satellites(satellites)
-    gen_relationships(stlt_prog_rel)
     gen_astro_objects(astro_objects, galaxies)
-    gen_relationships(obj_prog_rel)
+    gen_space_programs(space_programs)
+    gen_satellites(satellites, astro_objects)
     gen_cosmonauts(cosmonauts, space_programs)
+    gen_relationships(stlt_prog_rel, obj_prog_rel, satellites, space_programs)
 
     save_data("../data/galaxies.csv", galaxies)
     save_data("../data/space_programs.csv", space_programs)
