@@ -130,33 +130,6 @@ def gen_satellites(satellites: dict, astro_objects: dict):
         satellites[i] = [name, stlt_type, price, creation_year, launch_year, astro_object_id]
 
 
-def gen_relationships(
-        stlt_prog_rel: list,
-        prog_obj_rel: list,
-        satellites: dict,
-        space_programs: dict
-):
-    space_programs_ids = list(space_programs.keys())
-
-    for satellite_id in satellites.keys():
-        astro_object_id = satellites[satellite_id][-1]
-        marked_space_programs = []
-
-        for j in range(1, random.randint(2, 10)):
-            space_program_id = random.choice(space_programs_ids)
-
-            while space_program_id in marked_space_programs:
-                space_program_id = random.choice(space_programs_ids)
-
-            prog_stlt = [space_program_id, satellite_id]
-            prog_obj = [space_program_id, astro_object_id]
-
-            stlt_prog_rel.append(prog_stlt)
-
-            if prog_obj not in prog_obj_rel:
-                prog_obj_rel.append(prog_obj)
-
-
 def gen_astro_objects(astro_objects: dict, galaxies: dict):
     names = []
 
@@ -190,6 +163,33 @@ def gen_cosmonauts(cosmonauts: dict, space_programs: dict):
         cosmonauts[i] = [name, birth_year, growth, mass, space_program_id]
 
 
+def gen_relationships(
+        stlt_prog_rel: list,
+        prog_obj_rel: list,
+        satellites: dict,
+        space_programs: dict
+):
+    space_programs_ids = list(space_programs.keys())
+
+    for satellite_id in satellites.keys():
+        astro_object_id = satellites[satellite_id][-1]
+        marked_space_programs = []
+
+        for j in range(1, random.randint(2, 10)):
+            space_program_id = random.choice(space_programs_ids)
+
+            while space_program_id in marked_space_programs:
+                space_program_id = random.choice(space_programs_ids)
+
+            prog_stlt = [space_program_id, satellite_id]
+            prog_obj = [space_program_id, astro_object_id]
+
+            stlt_prog_rel.append(prog_stlt)
+
+            if prog_obj not in prog_obj_rel:
+                prog_obj_rel.append(prog_obj)
+
+
 def save_data(filename: str, data):
     with open(filename, 'w') as file:
         if type(data) == list:
@@ -219,9 +219,9 @@ def main():
     save_data("../data/galaxies.csv", galaxies)
     save_data("../data/space_programs.csv", space_programs)
     save_data("../data/satellites.csv", satellites)
-    save_data("../data/stlt_prog_rel.csv", stlt_prog_rel)
+    save_data("../data/prog_stlt_rel.csv", stlt_prog_rel)
     save_data("../data/astro_objects.csv", astro_objects)
-    save_data("../data/obj_prog_rel.csv", obj_prog_rel)
+    save_data("../data/prog_obj_rel.csv", obj_prog_rel)
     save_data("../data/cosmonauts.csv", cosmonauts)
 
 

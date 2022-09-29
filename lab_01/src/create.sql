@@ -21,6 +21,7 @@ create table if not exists astro_objects
 (
     id int primary key,
     astro_object_name text,
+    astro_object_type text,
     discovery_year int,
     distance float8,
     
@@ -31,6 +32,7 @@ create table if not exists astro_objects
 create table if not exists satellites
 (
     id int primary key,
+    stlt_name text,
     stlt_type text,
     price int,
     creation_year int,
@@ -40,7 +42,19 @@ create table if not exists satellites
     foreign key (astro_object_id) references astro_objects(id)
 );
 
-create table if not exists stlt_prog_rel
+create table if not exists cosmonauts
+(
+    id int primary key,
+    name text,
+    birth_year int,
+    mass int,
+    growth int,
+    
+    space_program_id int,
+    foreign key (space_program_id) references space_programs(id)
+);
+
+create table if not exists prog_stlt_rel
 (
     space_program_id int,
     satellite_id int,
@@ -48,4 +62,10 @@ create table if not exists stlt_prog_rel
     foreign key (satellite_id) references satellites(id)
 );
 
-create
+create table if not exists prog_obj_rel
+(
+    space_program_id int,
+    astro_object_id int,
+    foreign key (space_program_id) references space_programs(id),
+    foreign key (astro_object_id) references astro_objects(id)
+);
