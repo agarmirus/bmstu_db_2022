@@ -78,5 +78,3 @@ order by fast_launch desc;
 --into temp lenticular_galaxy
 --from galaxies
 --where galaxy_type = 'Линзообразная';
-
--- 12. 
