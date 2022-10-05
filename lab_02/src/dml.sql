@@ -32,10 +32,10 @@ where not exists (select satellite_id
                   where satellite_id = satellites.id)
 order by stlt_name;
 
--- 6. Самые старые космонавты в каждой программе
+-- 6. Самые молодые космонавты в каждой программе
 select csm1.name, csm1.birth_year, csm1.space_program_id
 from cosmonauts csm1
-where csm1.birth_year <= all (select csm2.birth_year
+where csm1.birth_year >= all (select csm2.birth_year
                               from cosmonauts csm2
                               where csm1.space_program_id = csm2.space_program_id
                               and csm1.id != csm2.id)
@@ -50,7 +50,33 @@ order by country;
 
 -- 8. Средняя масса космонавтов по программам
 select name,
-(select avg(mass)
+(select round(avg(mass))
 from cosmonauts csm1
 where csm1.space_program_id = csm2.space_program_id) prog_avg_mass
 from cosmonauts csm2;
+
+-- 9. Поиск российских программ
+select name,
+case country
+    when 'Russia' then 'Отечественная'
+    else 'Иностранная'
+end is_russian
+from space_programs
+order by is_russian desc;
+
+-- 10. Поиск спутников, запущенных сразу после создания
+select stlt_name,
+case
+    when launch_year = creation_year then 'Запущен сразу'
+    else 'Запущен позже'
+end fast_launch
+from satellites
+order by fast_launch desc;
+
+-- 11. Временная таблица с информацией о линзообразных галактиках
+--select *
+--into temp lenticular_galaxy
+--from galaxies
+--where galaxy_type = 'Линзообразная';
+
+-- 12. 
