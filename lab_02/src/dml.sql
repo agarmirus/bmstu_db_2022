@@ -114,4 +114,41 @@ insert into prog_stlt_rel (space_program_id, satellite_id)
 values (681, 1);
 
 -- 17. Многострочная инструкция INSERT, выполняющая вставку в таблицу результирующего набора данных вложенного подзапроса
+insert into space_programs (id, name, foundation_year, workers_count, country, budget)
+select MAX(id) + 1, 'Kerbal Space Program', 2015, 500, 'Kerbin', MAX(budget)
+from space_programs;
 
+-- 18. Простая инструкция UPDATE
+update galaxies
+set galaxy_type = 'Спиральная с перемычкой'
+where id = 193;
+
+-- 19. Инструкция UPDATE со скалярным подзапросом в предложении SET.
+update cosmonauts
+set growth = (select MAX(growth)
+              from cosmonauts)
+where id = 10;
+
+-- 20. Простая инструкция DELETE.
+delete from space_programs
+where country = 'Kerbin';
+
+-- 21. Инструкция DELETE с вложенным коррелированным подзапросом в предложении WHERE
+delete from satellites stlt
+where stlt.id not in (select distinct satellite_id
+                      from prog_stlt_rel);
+
+-- 22. Инструкция SELECT, использующая простое обобщенное табличное выражение
+with cte (name, price) as (
+    select stlt_name, price
+    from satellites
+    where price >= 200000000
+)
+select round(avg(price))
+from cte;
+
+-- 23. Инструкция SELECT, использующая рекурсивное обобщенное табличное выражение
+
+-- 24. Оконные функции. Использование конструкций MIN/MAX/AVG OVER()
+
+-- 25. Оконные функции для устранения дублей
