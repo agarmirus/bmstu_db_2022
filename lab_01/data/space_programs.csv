@@ -1,1001 +1,1000 @@
-1;Ramos Science Program;1992;110;Costa Rica;5832247
-2;Boyd Exploration Institution;2001;325;Uruguay;87615481
-3;Barnett Space Institution;1993;519;Kenya;79382139
-4;Stephenson Exploration Corporation;2002;391;India;55438040
-5;Strickland Astronomical Program;1996;842;Egypt;7623107
-6;Tillman Astronomical Agency;2003;711;Saudi Arabia;61871546
-7;Glover Space Agency;1999;195;El Salvador;34231822
-8;Michael Space Agency;1993;944;Vatican City;3709307
-9;Emerson Exploration Institution;1993;102;Central African Republic;3549745
-10;Madden Astronomical Program;2007;581;French Polynesia;26949991
-11;O'neil Space Agency;2006;932;Ghana;14174592
-12;Cameron Space Corporation;1991;254;Togo;14340334
-13;Ross Exploration Institution;1995;625;Swaziland;23966705
-14;Donovan Astronomical Corporation;1982;507;Seychelles;1702364
-15;Stuart Space Program;2009;482;São Tomé & Príncipe;39116492
-16;Clark Space Company;1995;285;Zambia;80077517
-17;Slater Science Institution;1995;593;Netherlands;42068884
-18;Carson Science Corporation;2003;569;British Virgin Islands;84478796
-19;Henson Space Corporation;2000;875;India;75372412
-20;Perry Astronomical Corporation;1981;507;Liechtenstein;89878360
-21;Miranda Space Company;1989;921;Trinidad & Tobago;33570110
-22;Hubbard Exploration Company;1990;417;New Zealand;54084172
-23;Lott Space Agency;1999;147;Macedonia;19333480
-24;Sawyer Exploration Company;1992;962;Finland;58431179
-25;Castillo Exploration Company;1987;476;China;21573433
-26;Garza Exploration Institution;2005;663;Liberia;9878376
-27;Nelson Astronomical Program;2000;395;Cape Verde;35378813
-28;Meyer Astronomical Company;1980;131;Anguilla;88559789
-29;Castro Astronomical Program;1981;643;Isle of Man;32674295
-30;Mann Astronomical Program;2008;465;Germany;15364530
-31;Owen Science Agency;2009;786;Cameroon;5215146
-32;Harvey Science Corporation;1989;336;Fiji;17845292
-33;Lowery Science Agency;1980;575;Sint Maarten;41391922
-34;Vinson Astronomical Institution;1983;417;Philippines;20882629
-35;Wright Exploration Institution;2002;690;Switzerland;48422166
-36;Dunlap Astronomical Company;1989;867;Caribbean Netherlands;1644324
-37;Coleman Space Program;2001;716;Laos;35641729
-38;Becker Science Program;2003;220;Vatican City;72347740
-39;Mcneil Astronomical Company;1992;842;Mongolia;9024662
-40;Herman Astronomical Corporation;1987;965;Niue;20883086
-41;Rosales Space Company;1999;992;Bulgaria;59234108
-42;Mcdaniel Space Corporation;1985;638;Argentina;28733162
-43;Cooley Exploration Agency;2004;551;Nicaragua;89559437
-44;Grant Astronomical Company;1994;245;Argentina;23633805
-45;Steele Science Agency;1995;123;Philippines;57133893
-46;Solis Exploration Corporation;1987;810;Yemen;42189559
-47;Lancaster Astronomical Company;1992;806;Falkland Islands;45756097
-48;Houston Science Program;1996;918;Lesotho;50068794
-49;Webster Space Corporation;1996;605;Cocos;26473907
-50;Mckinney Space Program;2006;739;Colombia;93789825
-51;Key Space Company;1985;492;Jordan;93034126
-52;Knowles Exploration Company;2006;795;Ukraine;53796282
-53;Whitley Science Agency;2005;249;Angola;25413687
-54;Harvey Exploration Corporation;1986;906;Philippines;42411736
-55;Schroeder Exploration Company;1983;698;Turkmenistan;11700607
-56;Atkins Space Corporation;1986;592;Turkmenistan;78125119
-57;Garcia Astronomical Agency;2006;799;Sierra Leone;34138741
-58;Baird Space Agency;1986;602;Svalbard & Jan Mayen;51570547
-59;Todd Exploration Corporation;2004;117;Equatorial Guinea;41991172
-60;Peck Science Company;1984;892;Spain;71001661
-61;Gay Space Agency;2000;939;Algeria;78605199
-62;Mcfadden Science Institution;1997;939;Guadeloupe;19738878
-63;Gutierrez Exploration Institution;1988;181;Zimbabwe;40021485
-64;O'connor Science Corporation;1991;969;Gabon;75066849
-65;Wells Exploration Agency;1980;103;Kiribati;53367021
-66;Kidd Space Corporation;1982;622;Cyprus;41953943
-67;Mcpherson Space Company;2005;725;Guinea-Bissau;8992658
-68;Hahn Science Company;2003;772;Northern Mariana Islands;48879925
-69;Sweet Astronomical Agency;2000;388;Solomon Islands;60866815
-70;Estes Astronomical Institution;2003;386;Mauritius;36689439
-71;Hammond Space Institution;2009;564;South Georgia & South Sandwich Islands;82547764
-72;Mcbride Space Agency;2007;492;India;70296750
-73;Mendez Exploration Company;2005;850;Anguilla;90321077
-74;Mercer Science Institution;2006;805;Benin;52560847
-75;Stout Space Program;1989;114;Cook Islands;80411173
-76;Vance Space Company;2009;282;Zambia;43571876
-77;Solis Science Institution;1993;386;Canada;59504956
-78;Carrillo Space Institution;1986;544;Indonesia;4137126
-79;Bush Space Program;1988;651;Togo;43309269
-80;Ward Exploration Institution;1984;631;Burkina Faso;72800192
-81;Rios Exploration Program;1988;940;Peru;46361271
-82;Sanford Exploration Institution;1992;274;Cape Verde;76880491
-83;Humphrey Space Program;2007;204;Congo - Kinshasa;37273082
-84;Hurley Science Program;1998;972;Bahrain;33120448
-85;Galloway Science Agency;2006;357;British Indian Ocean Territory;38645229
-86;Jacobs Astronomical Institution;1991;805;Georgia;54491449
-87;Robles Science Company;2010;644;Eritrea;47372917
-88;Hoover Astronomical Agency;2000;199;Zimbabwe;25823308
-89;Roy Space Company;2002;234;Colombia;89977898
-90;Vaughan Space Program;1981;203;Bhutan;57087124
-91;Mccormick Science Company;2009;763;Burundi;61283345
-92;Delaney Science Corporation;2008;694;Mauritius;54135918
-93;Velazquez Space Corporation;1984;931;Mauritania;67481486
-94;Doyle Astronomical Corporation;2000;960;British Indian Ocean Territory;43552432
-95;Beard Exploration Agency;2009;444;Brunei;35641035
-96;Chang Astronomical Institution;1999;698;Ascension Island;20297657
-97;Benjamin Astronomical Corporation;2009;379;Argentina;36141493
-98;Durham Astronomical Program;1988;966;U.S. Virgin Islands;81312127
-99;Norton Science Institution;1997;997;Burundi;51227013
-100;Mosley Astronomical Company;1984;199;Micronesia;47408733
-101;Holder Science Corporation;1985;152;Tunisia;57828352
-102;Stark Astronomical Corporation;2003;299;Australia;96111812
-103;Jimenez Space Institution;1994;365;St. Lucia;83707447
-104;Beck Science Agency;2000;751;Anguilla;27108456
-105;Michael Astronomical Agency;1997;469;Armenia;60232251
-106;Hendrix Space Institution;2004;427;Guinea-Bissau;20436268
-107;Larsen Astronomical Agency;1999;681;Algeria;22018939
-108;Forbes Science Agency;1991;113;Central African Republic;37000940
-109;Nolan Science Agency;2002;731;Turkey;59694544
-110;Fuller Exploration Institution;2008;961;Saudi Arabia;15592695
-111;Frye Science Institution;1995;936;Syria;27066561
-112;Roberts Astronomical Company;2004;125;Nicaragua;52305123
-113;Herrera Science Agency;1996;807;Diego Garcia;62706865
-114;Caldwell Space Program;2005;219;Barbados;42756098
-115;Erickson Space Program;1989;699;Tunisia;84694680
-116;Donaldson Science Company;1989;881;Micronesia;39829238
-117;Cannon Science Program;1996;900;Iran;92488335
-118;Mann Space Company;1981;321;India;38158860
-119;Buck Science Program;1989;333;Syria;51874514
-120;O'neill Science Corporation;1988;307;Poland;48332838
-121;Craig Space Agency;1985;282;Macau SAR China;1301686
-122;Aguirre Astronomical Agency;1980;531;Qatar;4559623
-123;Barrera Space Program;2005;662;Chile;36877256
-124;Combs Astronomical Corporation;2008;603;Cayman Islands;82360791
-125;Mcguire Exploration Agency;2001;929;Hong Kong SAR China;51633165
-126;Johnson Science Company;2000;209;Mauritania;59592747
-127;Mcpherson Science Corporation;1993;166;Dominican Republic;25812669
-128;Roy Astronomical Institution;2006;596;Western Sahara;56474667
-129;Salazar Exploration Institution;1982;667;Cambodia;52865060
-130;Rush Space Corporation;1995;680;Belarus;8294282
-131;Padilla Space Corporation;1992;294;St. Barthélemy;87561676
-132;Goodman Astronomical Agency;1993;961;Portugal;81241370
-133;Randall Space Institution;1999;391;Uzbekistan;13048291
-134;Avery Exploration Agency;2002;266;Gibraltar;41948443
-135;French Astronomical Institution;1996;953;U.S. Outlying Islands;1187571
-136;Le Science Program;1997;588;Denmark;58916660
-137;Malone Exploration Corporation;1986;510;Kenya;87501881
-138;Baldwin Space Institution;2006;945;Azerbaijan;2625226
-139;Lindsay Science Company;2007;280;St. Vincent & Grenadines;29388563
-140;Carey Exploration Corporation;2007;899;Vatican City;49657298
-141;Hatfield Space Institution;1993;157;Cambodia;87924011
-142;Daniel Science Company;1991;941;Sudan;52684152
-143;Kelley Exploration Company;2002;991;Liberia;30680801
-144;Reilly Space Institution;2007;196;El Salvador;82276717
-145;Doyle Exploration Company;1980;939;Germany;68288058
-146;Branch Exploration Program;1992;173;Lithuania;92685793
-147;Juarez Exploration Company;1997;711;Ascension Island;99244458
-148;Wallace Astronomical Agency;1999;475;Laos;39720336
-149;Daugherty Astronomical Agency;1997;457;Lithuania;62117189
-150;Morton Space Company;1989;485;Micronesia;91840062
-151;Lara Space Institution;1981;507;Iraq;56732890
-152;Barry Space Agency;1984;472;Grenada;30531613
-153;Wooten Astronomical Institution;1998;498;Wallis & Futuna;78737493
-154;Collins Space Program;1993;531;Timor-Leste;71722986
-155;Duran Exploration Institution;1985;984;Western Sahara;59043066
-156;Dorsey Space Company;1988;901;Algeria;4083868
-157;Young Exploration Program;1997;595;Sweden;72113588
-158;Nunez Space Institution;1986;219;British Virgin Islands;44869936
-159;Cruz Science Institution;1997;611;China;61896458
-160;Vincent Astronomical Corporation;1983;343;Sweden;77602584
-161;Flowers Science Agency;2007;314;Oman;55565717
-162;Foley Astronomical Program;2006;151;Wallis & Futuna;20619155
-163;Benjamin Exploration Corporation;2010;307;Central African Republic;4228556
-164;Patterson Science Corporation;1987;446;Comoros;36818323
-165;Collier Astronomical Institution;1982;486;Uganda;44898723
-166;Castro Science Program;1991;327;Andorra;73912810
-167;Butler Astronomical Corporation;1994;516;Papua New Guinea;45121724
-168;Ayers Astronomical Institution;1996;642;Argentina;29058424
-169;Mcfadden Science Institution;2008;863;Svalbard & Jan Mayen;46681389
-170;Travis Exploration Institution;2004;977;Czech Republic;34997762
-171;Greer Space Agency;2000;842;Tunisia;76964219
-172;Christian Science Corporation;1989;821;Canada;28076878
-173;Stokes Exploration Program;1985;128;Belarus;76839879
-174;Sutton Space Company;1984;452;French Southern Territories;87104930
-175;Cross Astronomical Program;1991;825;Portugal;95105710
-176;Bond Space Company;2002;892;Tunisia;31689681
-177;Cole Science Company;1984;639;Sierra Leone;6457701
-178;Hartman Science Program;1981;689;Madagascar;88890883
-179;Flowers Space Program;1989;137;Russia;14544192
-180;Morrow Astronomical Agency;1992;734;Venezuela;37573292
-181;Santiago Exploration Agency;2002;411;Kazakhstan;92471636
-182;Johnson Science Corporation;2003;906;Nauru;26143788
-183;Clements Astronomical Agency;2010;549;American Samoa;26605067
-184;Ferrell Science Corporation;1987;405;St. Martin;22755844
-185;Caldwell Astronomical Institution;1996;291;Greece;65618822
-186;Steele Space Company;2009;936;Haiti;12950199
-187;Dixon Science Corporation;2005;980;Lebanon;98458826
-188;Bentley Exploration Company;1980;860;Faroe Islands;53521546
-189;Neal Exploration Agency;1988;296;Malawi;71747109
-190;Boyd Space Program;2003;536;Cuba;67357637
-191;Bird Exploration Agency;1980;989;Aruba;22549241
-192;Michael Science Institution;1982;742;Estonia;68189967
-193;Walls Exploration Agency;2000;253;Botswana;60483735
-194;Pearson Space Corporation;1993;385;Aruba;49910910
-195;Powers Exploration Institution;1987;448;Gabon;72006852
-196;Chaney Science Institution;2006;157;Norfolk Island;3468903
-197;King Astronomical Institution;1982;799;Bahamas;93203637
-198;Hendrix Astronomical Institution;1988;432;Uganda;91961491
-199;Boyer Space Agency;2006;868;St. Pierre & Miquelon;73331124
-200;Mooney Space Corporation;2009;191;Luxembourg;80899219
-201;Stokes Astronomical Company;1984;301;Paraguay;22475849
-202;Bradford Astronomical Program;1981;373;Palestinian Territories;61846172
-203;Maldonado Space Program;1982;869;St. Vincent & Grenadines;52397629
-204;Kinney Science Corporation;1992;597;Turks & Caicos Islands;64679889
-205;Hopper Space Company;2008;543;Albania;57180459
-206;Wong Astronomical Institution;2009;254;Guinea;66914993
-207;Cannon Science Agency;1999;708;Andorra;67724948
-208;Cote Space Company;1995;563;Barbados;79337051
-209;Sosa Science Program;1984;580;Lebanon;56556973
-210;Pearson Science Company;1985;717;Denmark;50804698
-211;Hammond Astronomical Institution;1990;269;St. Lucia;98391173
-212;Beard Exploration Agency;2007;650;St. Pierre & Miquelon;54249253
-213;Norris Space Corporation;2007;660;Germany;11734755
-214;Owens Exploration Company;2003;311;Papua New Guinea;6296209
-215;George Space Agency;1997;428;Curaçao;61891555
-216;Bowers Space Agency;1985;180;Peru;27256035
-217;Holder Science Company;2010;749;Saudi Arabia;41659899
-218;Sanchez Exploration Company;2000;833;Laos;63453755
-219;Keith Science Agency;1999;968;Northern Mariana Islands;90363065
-220;Witt Astronomical Company;1988;940;Maldives;78548199
-221;Dorsey Astronomical Program;2001;572;United Arab Emirates;30939585
-222;Garner Exploration Agency;2006;748;Austria;80596676
-223;Reynolds Astronomical Institution;1998;885;St. Martin;69009919
-224;Sherman Space Agency;1981;785;Tuvalu;31434868
-225;Wooten Science Corporation;2002;658;San Marino;87036319
-226;Sanchez Science Institution;2001;310;Ukraine;82370599
-227;Franklin Science Program;1980;709;Sri Lanka;17980830
-228;Huber Exploration Program;1987;324;Nauru;96511709
-229;Reid Astronomical Program;1991;110;Belgium;17500422
-230;Mullen Exploration Corporation;1997;541;United States;37826622
-231;Luna Astronomical Company;2000;468;Guatemala;38114220
-232;Murray Space Program;1983;902;Curaçao;84690448
-233;Waller Exploration Company;1995;109;New Zealand;78568592
-234;Hartman Astronomical Corporation;2002;259;Iceland;97360953
-235;Vaughn Exploration Company;2005;114;Moldova;3791080
-236;Forbes Exploration Agency;1999;143;Sudan;13409388
-237;Bell Astronomical Program;2008;360;Portugal;76472418
-238;Green Space Agency;1987;214;Czech Republic;3752007
-239;Hurst Astronomical Company;1987;786;Uruguay;68261162
-240;Dillard Astronomical Agency;1998;469;Namibia;20328267
-241;Harrell Astronomical Corporation;2006;789;Barbados;42064465
-242;Short Astronomical Program;1984;700;Puerto Rico;81726387
-243;Wilkinson Space Corporation;2006;733;Wallis & Futuna;32530235
-244;Blackwell Space Agency;1997;826;St. Pierre & Miquelon;46850797
-245;Fitzgerald Astronomical Company;2004;655;Jordan;56925284
-246;Koch Space Agency;1994;799;Senegal;63859061
-247;Harrington Science Program;1997;949;Mauritania;22339839
-248;Moreno Astronomical Program;2010;873;Hungary;80297574
-249;White Science Institution;2009;883;U.S. Outlying Islands;32331341
-250;Workman Space Agency;1988;704;Syria;65371534
-251;Kerr Science Program;1984;403;St. Vincent & Grenadines;23692835
-252;Sharp Science Institution;2003;297;St. Martin;1542448
-253;Thomas Astronomical Company;2003;487;Mauritania;45817981
-254;Lawrence Space Company;1994;534;Germany;64858898
-255;Robles Space Institution;2002;489;Panama;13665183
-256;Carney Science Company;2001;323;Iceland;54699382
-257;Gardner Space Program;2004;806;St. Vincent & Grenadines;91634252
-258;Tran Exploration Institution;1997;898;Chile;72608951
-259;Melendez Exploration Program;1987;603;Iraq;4714871
-260;Morris Space Institution;2002;508;France;29845364
-261;Lambert Exploration Corporation;1988;249;Rwanda;88245395
-262;Luna Science Program;1988;267;St. Vincent & Grenadines;61897316
-263;Prince Astronomical Program;1997;742;Bermuda;49737436
-264;Miller Space Company;1985;498;Solomon Islands;49658862
-265;Reed Space Agency;1998;226;Latvia;57830474
-266;Acevedo Science Company;1999;261;Grenada;77024109
-267;Carroll Science Institution;1995;973;Curaçao;50538469
-268;Nelson Space Company;1983;919;Luxembourg;36864733
-269;Cain Astronomical Corporation;1999;212;Palau;83177219
-270;Guerrero Astronomical Agency;1993;244;Greenland;19569674
-271;Gilliam Science Corporation;1993;602;São Tomé & Príncipe;43136258
-272;Ferguson Astronomical Institution;1982;542;Mayotte;61179721
-273;Gonzalez Science Company;1998;431;Saudi Arabia;66005481
-274;Ward Space Company;2004;439;Lithuania;45252269
-275;Curtis Astronomical Agency;1999;424;Liechtenstein;11430094
-276;Vance Science Agency;2006;640;Netherlands;32693455
-277;Thomas Astronomical Institution;1995;678;Kiribati;43569495
-278;Nelson Astronomical Institution;1980;683;Uruguay;13353499
-279;Hooper Space Corporation;1986;299;Malaysia;49008322
-280;Rojas Exploration Agency;2005;887;French Guiana;42251421
-281;Meadows Astronomical Institution;2003;894;Japan;11745459
-282;Stanley Astronomical Company;1989;598;St. Helena;56348011
-283;Williams Science Corporation;1984;450;Nepal;80346001
-284;Marshall Science Program;2002;476;Austria;26193021
-285;Franks Astronomical Institution;1987;290;Romania;47510608
-286;Gentry Astronomical Program;1999;319;Morocco;68254244
-287;Joyce Space Institution;1982;377;Denmark;29859305
-288;Gomez Science Company;1994;300;Greece;33019316
-289;Mcclain Science Corporation;1999;581;Morocco;3107489
-290;Bender Space Agency;1995;384;Botswana;34167431
-291;Nixon Space Agency;1992;195;Yemen;80465499
-292;Hurley Science Company;1980;116;Côte d’Ivoire;13178024
-293;Hammond Space Institution;1995;601;Israel;23528627
-294;Joyner Space Institution;2008;732;Malawi;3123868
-295;Love Astronomical Corporation;2007;115;Mali;77966369
-296;Pollard Science Company;1988;433;Guinea;30075970
-297;Weeks Space Institution;1985;759;Congo - Kinshasa;18208019
-298;Clarke Science Company;2001;881;Aruba;70040148
-299;Owens Exploration Company;2010;537;Guinea;5988991
-300;Shepard Science Corporation;1993;419;Papua New Guinea;94004402
-301;Larson Astronomical Agency;1996;270;Laos;71864124
-302;Bailey Astronomical Company;2007;727;Hungary;93208625
-303;Robinson Exploration Corporation;2002;943;Algeria;21466144
-304;Curtis Space Company;2001;901;Israel;38495613
-305;Thompson Space Agency;1982;761;Mongolia;37036656
-306;Mcguire Space Institution;2004;474;St. Lucia;67618550
-307;Flowers Science Program;1981;515;Turks & Caicos Islands;59689767
-308;Middleton Space Agency;2000;346;Iceland;15673576
-309;Curry Space Program;2007;569;Cuba;43289444
-310;Duffy Science Corporation;2010;994;Taiwan;82523768
-311;Thompson Space Corporation;1993;778;Gibraltar;95676511
-312;Gomez Space Company;1984;316;French Polynesia;55840181
-313;Evans Science Program;1998;290;Czech Republic;85858864
-314;Eaton Exploration Company;1989;431;Monaco;73636774
-315;Nixon Space Agency;2005;817;Malawi;85463455
-316;Rodriquez Exploration Institution;1992;242;Dominica;93125824
-317;Medina Science Program;2005;905;Chad;56625854
-318;Bullock Science Agency;2004;695;Vatican City;96237923
-319;Walters Science Corporation;1985;561;Brunei;32973462
-320;Sanchez Astronomical Program;2009;629;South Korea;37130614
-321;Guthrie Exploration Institution;2010;306;Caribbean Netherlands;78220715
-322;Manning Astronomical Company;1983;342;Belgium;21344529
-323;Battle Exploration Company;1992;574;Brunei;49107869
-324;Cummings Exploration Company;1980;560;Mauritius;33743156
-325;Lamb Astronomical Institution;1989;598;Togo;59010067
-326;Watts Astronomical Company;2008;174;Cuba;93663064
-327;Chambers Science Corporation;1997;841;Kiribati;59573653
-328;Lott Space Agency;2000;457;Georgia;19408558
-329;Ratliff Exploration Company;1999;709;Azerbaijan;45185304
-330;Rosario Science Institution;1984;754;Brunei;88243822
-331;Fry Science Program;2006;776;United States;38124600
-332;Sherman Exploration Corporation;1997;131;North Korea;71364727
-333;Casey Astronomical Program;1990;174;Faroe Islands;21903278
-334;Roberts Space Agency;2006;772;Lebanon;35750227
-335;Fuentes Science Agency;1980;718;Mauritania;52208902
-336;Kidd Space Agency;2008;327;Equatorial Guinea;37617594
-337;Weber Exploration Company;2005;341;Marshall Islands;31024802
-338;Knapp Science Program;1981;900;Latvia;5621205
-339;Howell Space Corporation;1982;351;Comoros;30657584
-340;Lara Exploration Corporation;1989;551;Macedonia;19309020
-341;Murphy Science Agency;1999;903;Tanzania;93326114
-342;Abbott Science Agency;1985;594;Spain;6243379
-343;Bradshaw Astronomical Company;2009;258;Jordan;41821291
-344;Galloway Space Program;1991;837;Argentina;35117637
-345;Payne Astronomical Agency;1993;489;Gambia;30849592
-346;Wolf Astronomical Institution;1991;421;Sweden;31025909
-347;Peters Space Company;2003;994;Guinea-Bissau;60103877
-348;Carey Space Company;1987;390;Belgium;38817346
-349;Mullen Science Institution;2005;862;Timor-Leste;89518873
-350;Glover Space Company;1992;242;Venezuela;83351494
-351;Skinner Astronomical Institution;2005;713;Sri Lanka;77564804
-352;Bryan Astronomical Program;2007;325;Kosovo;80446098
-353;Kidd Space Corporation;2000;823;Trinidad & Tobago;47898262
-354;Solis Exploration Institution;1981;972;South Georgia & South Sandwich Islands;4634164
-355;Reid Space Institution;1990;550;Japan;71631274
-356;Navarro Space Company;2006;854;Sweden;52690525
-357;Donovan Astronomical Institution;1985;735;Guam;99471098
-358;Greer Exploration Institution;2004;525;New Zealand;82609734
-359;Benson Space Agency;1992;864;Cambodia;17760018
-360;Bradshaw Space Program;1986;715;Georgia;51567710
-361;Summers Science Institution;1980;923;Iraq;28771731
-362;Bowman Exploration Corporation;1994;183;Samoa;20503539
-363;Clayton Space Corporation;2006;279;Finland;68157123
-364;Grimes Exploration Corporation;2007;228;Sri Lanka;91091317
-365;Allen Science Institution;1999;558;Tanzania;21643340
-366;Mooney Space Institution;2002;869;Brunei;14392096
-367;Mccormick Space Institution;2008;160;Senegal;4628907
-368;Mercado Space Agency;1987;552;St. Vincent & Grenadines;99928827
-369;Holt Astronomical Institution;1991;627;Burundi;10237446
-370;Johnson Space Agency;2009;979;Denmark;66237968
-371;Knox Space Program;1997;960;Ethiopia;79024405
-372;Shields Astronomical Agency;1992;460;Iraq;81137089
-373;Waller Astronomical Agency;2005;163;Western Sahara;14108576
-374;Russell Space Program;1991;770;United Kingdom;16248622
-375;Mcfarland Exploration Program;1984;776;Spain;76996572
-376;Miranda Exploration Agency;1989;511;Oman;12212898
-377;Barr Astronomical Company;1987;172;Gambia;19757741
-378;Dixon Exploration Agency;1999;296;Switzerland;32272376
-379;Cantu Space Agency;2001;222;Tokelau;26723483
-380;Byers Exploration Institution;2005;817;Caribbean Netherlands;79302820
-381;Lee Science Agency;2007;254;Hong Kong SAR China;21378990
-382;Winters Astronomical Program;2009;119;Suriname;61616812
-383;Carney Space Agency;1981;370;Trinidad & Tobago;20824780
-384;Espinoza Space Corporation;1990;613;Swaziland;17291546
-385;Kramer Astronomical Institution;2000;361;Botswana;25065107
-386;Mitchell Exploration Program;2010;911;Macau SAR China;42885479
-387;Sparks Space Institution;2002;975;Azerbaijan;58020824
-388;Beach Space Institution;1984;635;Spain;17556966
-389;Abbott Science Institution;1982;646;Micronesia;90187821
-390;Walton Astronomical Agency;1986;579;Curaçao;29244095
-391;Lancaster Astronomical Agency;1994;710;Libya;84034895
-392;Faulkner Exploration Agency;1984;687;Equatorial Guinea;73268294
-393;Savage Space Program;2008;338;Oman;71697856
-394;Jacobs Exploration Program;1994;876;Burkina Faso;6227919
-395;Drake Exploration Agency;1986;450;Puerto Rico;41639994
-396;Banks Astronomical Program;1989;956;Guernsey;75576002
-397;Dunn Space Company;1999;230;Sierra Leone;59638280
-398;Santiago Astronomical Agency;2008;597;Bulgaria;55541809
-399;Cooke Astronomical Agency;1995;558;Peru;41467239
-400;Welch Astronomical Program;1997;802;São Tomé & Príncipe;38622536
-401;Cash Space Agency;1980;365;Cook Islands;63008073
-402;Wheeler Space Institution;1983;696;Falkland Islands;19113489
-403;Brady Space Agency;1981;942;Austria;79541494
-404;Stein Astronomical Institution;1996;331;Seychelles;98878907
-405;Medina Space Corporation;1980;545;India;50709322
-406;Reeves Space Company;1985;544;Mauritania;61684967
-407;Mckenzie Science Agency;2005;324;Jordan;44190838
-408;Bridges Space Company;2005;274;Taiwan;49763651
-409;Herring Science Program;1981;622;Bulgaria;12339904
-410;Decker Science Corporation;2010;228;Mali;60964607
-411;Berger Science Program;2010;696;Mozambique;56695178
-412;West Science Corporation;2007;974;St. Kitts & Nevis;76251891
-413;Wall Astronomical Corporation;1982;672;Taiwan;54252558
-414;Hansen Science Company;2006;525;Taiwan;56439772
-415;Woodard Astronomical Institution;1997;619;Micronesia;29057015
-416;Sanchez Space Program;1998;985;South Korea;31600110
-417;Soto Astronomical Institution;1993;646;Malaysia;94992111
-418;Wells Astronomical Institution;1995;937;St. Barthélemy;72032499
-419;Navarro Astronomical Company;1992;909;Falkland Islands;29388711
-420;Witt Space Institution;2004;119;Kenya;80303949
-421;Wallace Astronomical Corporation;1995;277;Albania;89234886
-422;Reilly Science Program;2006;863;Guinea-Bissau;78527297
-423;Cleveland Astronomical Institution;2002;335;Marshall Islands;4125883
-424;Conley Space Program;2008;877;Afghanistan;44329494
-425;Chang Exploration Corporation;2004;785;Oman;93918138
-426;Buckner Astronomical Company;1997;741;Palau;6439677
-427;Roberson Space Institution;1992;568;Angola;83846097
-428;Castaneda Space Institution;2010;600;Malawi;57661043
-429;Coffey Space Program;2001;293;Chad;11729672
-430;Bowers Astronomical Corporation;1988;311;Sweden;4942602
-431;Roth Exploration Agency;1992;165;Belize;32299770
-432;Christian Science Program;1999;868;Iraq;89776162
-433;Whitney Space Company;1980;310;Sierra Leone;55907010
-434;Waters Space Company;1981;419;Vatican City;6930925
-435;Camacho Astronomical Agency;1988;136;Moldova;55183243
-436;Steele Science Institution;1986;630;Indonesia;47082857
-437;Black Astronomical Company;2003;558;Paraguay;8403644
-438;Mccray Astronomical Agency;2009;734;Guam;93759620
-439;Mcgowan Astronomical Institution;1982;745;Haiti;92243673
-440;Carroll Space Program;1982;175;Azerbaijan;14181933
-441;Glenn Astronomical Program;2007;939;Isle of Man;13674693
-442;Smith Exploration Corporation;1989;525;Namibia;68548665
-443;Chase Science Company;2005;682;Christmas Island;75780235
-444;Joyner Science Institution;1986;225;Nauru;1993448
-445;Patterson Astronomical Agency;1984;850;Venezuela;98836509
-446;Long Exploration Agency;1999;333;Ceuta & Melilla;26316370
-447;Sykes Astronomical Program;1988;540;Northern Mariana Islands;55919208
-448;Mcdowell Astronomical Agency;2009;838;Nicaragua;61458714
-449;Beard Astronomical Corporation;1982;489;St. Martin;56322522
-450;Matthews Exploration Institution;1992;622;Martinique;22638533
-451;Weiss Science Agency;2008;598;Singapore;9804076
-452;Hayes Astronomical Company;1984;687;Nigeria;91424357
-453;Frazier Astronomical Agency;1993;954;Bahrain;43355003
-454;Browning Astronomical Company;1982;201;Comoros;11646932
-455;Cantu Exploration Program;2005;354;Sint Maarten;93524579
-456;Foreman Science Program;1990;842;Nicaragua;29260981
-457;Jones Science Agency;1997;987;Latvia;20552839
-458;Cotton Astronomical Corporation;2010;143;Bangladesh;82559662
-459;Mack Exploration Company;1998;607;St. Lucia;14351082
-460;Gilliam Space Program;1990;961;Mali;28181339
-461;Sears Science Company;1988;955;New Zealand;19442056
-462;Sutton Space Institution;1993;262;Slovenia;27963286
-463;Massey Science Agency;2002;264;Iran;70549589
-464;Landry Space Program;2007;145;Tristan da Cunha;67579016
-465;Dorsey Exploration Corporation;2008;770;Luxembourg;20193871
-466;Mccormick Astronomical Agency;2008;414;New Caledonia;56009875
-467;Fulton Exploration Institution;1984;734;Equatorial Guinea;13205348
-468;Whitehead Astronomical Corporation;2002;516;San Marino;2217093
-469;Harper Space Corporation;1995;694;Tokelau;16697618
-470;Barlow Space Program;1980;728;Cape Verde;65165233
-471;Reid Science Agency;1997;517;Ireland;64082361
-472;Scott Space Institution;1988;732;Turks & Caicos Islands;45655718
-473;Hill Science Corporation;2008;961;Russia;70429921
-474;Gould Science Company;2003;519;Morocco;92983111
-475;Thornton Science Institution;1982;974;French Polynesia;72803466
-476;Kidd Space Corporation;2006;409;Burundi;98392682
-477;Craft Exploration Company;1997;572;Guernsey;35411476
-478;Levine Exploration Company;1980;701;Bosnia & Herzegovina;3244763
-479;Jarvis Astronomical Institution;1983;361;Macau SAR China;15399683
-480;Hewitt Space Program;1981;355;St. Barthélemy;12125359
-481;Mcdowell Science Agency;1997;700;Zimbabwe;84572837
-482;Hart Exploration Agency;1983;597;Swaziland;71870931
-483;Mccarthy Exploration Program;1991;592;Mali;27751610
-484;Dalton Astronomical Agency;1995;462;Chad;80542329
-485;Hendricks Science Program;2010;347;Chad;44105943
-486;Valenzuela Space Program;1986;102;Nepal;94527757
-487;Austin Space Agency;1991;371;Congo - Brazzaville;29471812
-488;Harris Science Institution;2008;992;Chile;84199990
-489;Hardin Science Corporation;1984;183;Tunisia;25983961
-490;Carr Exploration Program;2001;755;New Caledonia;98347776
-491;Burch Astronomical Program;2006;430;Sweden;54953291
-492;Nielsen Science Agency;1988;748;Bosnia & Herzegovina;20091907
-493;Sutton Space Corporation;2000;781;South Africa;36410968
-494;Barber Exploration Program;1982;160;Poland;37438086
-495;Fleming Space Program;1993;650;Denmark;37384771
-496;Ray Science Program;2007;882;Cape Verde;14938283
-497;David Exploration Institution;1997;908;Ukraine;94824541
-498;Moran Astronomical Agency;1998;272;Northern Mariana Islands;5781553
-499;Benson Science Program;1996;880;Solomon Islands;94486766
-500;Mcgowan Astronomical Company;1997;392;Central African Republic;21594610
-501;Hoover Space Institution;1984;438;Croatia;4639287
-502;Mcguire Astronomical Company;1992;215;Uzbekistan;81849786
-503;Hughes Science Agency;1991;474;Togo;65198570
-504;Ware Exploration Institution;1989;737;St. Barthélemy;55996971
-505;Wolf Exploration Institution;1999;360;New Caledonia;48519202
-506;Whitehead Astronomical Company;1995;385;Albania;42144249
-507;Brock Science Agency;1989;698;Kiribati;75304714
-508;Baird Space Corporation;1984;326;Macedonia;63486065
-509;Kline Space Institution;1994;214;St. Barthélemy;62713307
-510;Velez Science Corporation;1991;590;Uruguay;56391356
-511;Wong Space Agency;1992;335;French Guiana;92469035
-512;Ewing Science Corporation;2007;376;Timor-Leste;28953384
-513;Huff Science Program;1998;387;Czech Republic;6071037
-514;Duncan Astronomical Institution;1991;198;Solomon Islands;58464583
-515;Gomez Space Institution;2002;353;Mexico;19357568
-516;Gonzales Science Corporation;2008;899;Papua New Guinea;27112297
-517;Duncan Space Institution;1993;505;Malawi;38055272
-518;Shannon Astronomical Institution;1995;376;Côte d’Ivoire;40466971
-519;Combs Science Corporation;2005;871;Kenya;26272214
-520;Glass Exploration Corporation;1994;437;Japan;26662891
-521;O'neal Astronomical Company;1990;758;Svalbard & Jan Mayen;15075970
-522;Murphy Science Institution;1998;800;Grenada;68154905
-523;Kramer Astronomical Corporation;1992;722;China;11213997
-524;Floyd Science Program;1995;907;Micronesia;16768588
-525;Hutchinson Exploration Agency;1995;875;Montserrat;87509934
-526;Ward Exploration Company;2009;993;Moldova;73820873
-527;Leblanc Science Company;1994;977;Svalbard & Jan Mayen;44765292
-528;Mcconnell Astronomical Program;2004;949;Cook Islands;24070460
-529;Gomez Astronomical Company;1993;160;Uzbekistan;77220032
-530;Fitzpatrick Exploration Agency;1984;909;Singapore;80349338
-531;Mayer Astronomical Institution;2001;876;Wallis & Futuna;20285286
-532;Michael Astronomical Company;1994;571;St. Vincent & Grenadines;15039728
-533;Erickson Astronomical Program;2008;722;Diego Garcia;3360067
-534;Mueller Science Company;1995;431;Canada;13828938
-535;Pratt Science Program;2007;517;Belize;1710623
-536;Waller Science Institution;1999;261;São Tomé & Príncipe;52233279
-537;Meyers Astronomical Corporation;1995;771;Nepal;63609110
-538;Hall Astronomical Company;2003;585;Gibraltar;4649323
-539;Rowe Astronomical Corporation;1989;303;Swaziland;85188293
-540;Estrada Exploration Program;1998;513;Estonia;10146279
-541;Short Astronomical Corporation;1996;700;Nepal;3348293
-542;Boone Exploration Institution;1987;372;Cook Islands;37455674
-543;Bell Astronomical Institution;1998;120;Hong Kong SAR China;14776881
-544;Sparks Exploration Company;1999;400;Indonesia;14874874
-545;Ellison Science Institution;1988;502;Canary Islands;72894076
-546;Buckner Space Agency;2008;564;Belgium;58548798
-547;Schultz Space Company;1985;878;Denmark;26114826
-548;Alvarez Science Agency;1984;216;Samoa;69516726
-549;Carpenter Space Institution;1985;949;Kosovo;45098315
-550;Kline Exploration Institution;1982;984;Solomon Islands;10259147
-551;Michael Exploration Institution;1980;967;Colombia;31769801
-552;Farley Astronomical Institution;2008;802;Denmark;67959973
-553;Gamble Space Program;1987;135;Antigua & Barbuda;36546530
-554;William Exploration Company;1997;405;Cayman Islands;16859063
-555;Wilkerson Exploration Corporation;1993;321;Martinique;53637710
-556;Walton Exploration Program;2007;660;Canary Islands;99819474
-557;Baird Astronomical Corporation;1993;886;Eritrea;36512768
-558;O'connor Exploration Company;1998;133;Yemen;34882896
-559;Ryan Exploration Program;1989;327;Austria;12758114
-560;Jackson Astronomical Corporation;2007;123;Guadeloupe;25725142
-561;Salas Exploration Institution;1995;819;Liberia;7506658
-562;Mason Exploration Institution;2006;210;Ascension Island;32190918
-563;Benson Science Institution;1987;667;Finland;67036790
-564;Hampton Exploration Company;2004;105;Azerbaijan;77736143
-565;Gibbs Astronomical Agency;2001;650;Kyrgyzstan;46463897
-566;Norton Space Institution;1996;729;Bulgaria;90003453
-567;Roman Space Agency;2008;256;Nauru;61265420
-568;Bruce Astronomical Corporation;1988;310;Macedonia;25314552
-569;Hess Astronomical Agency;2004;317;Luxembourg;19030389
-570;Holden Space Corporation;1996;288;British Indian Ocean Territory;92417275
-571;Stone Exploration Institution;1985;165;South Korea;50540622
-572;Munoz Astronomical Corporation;2001;537;Thailand;47759699
-573;Ashley Exploration Agency;1998;475;Maldives;61293141
-574;Dawson Astronomical Corporation;1988;461;Comoros;61048617
-575;Woodward Astronomical Institution;1985;759;Ethiopia;73249623
-576;Hampton Science Institution;1990;476;Belgium;86008421
-577;Mcintosh Space Institution;1984;175;Vatican City;28755724
-578;Mcclain Astronomical Company;1991;687;Tuvalu;57785049
-579;Anthony Space Program;2007;936;South Africa;17962061
-580;Horton Astronomical Company;1994;831;St. Lucia;16746746
-581;Carr Science Company;1984;659;Kiribati;13983475
-582;Randolph Astronomical Institution;1990;750;Malta;76667897
-583;Wolfe Astronomical Corporation;2002;299;Malaysia;49958823
-584;Becker Astronomical Program;2010;860;Niger;40053057
-585;Berg Space Program;2009;599;Chile;39356189
-586;Mullins Science Institution;2008;310;France;19336420
-587;Eaton Space Company;1990;198;Kazakhstan;88284339
-588;Mcfadden Exploration Agency;1995;943;Haiti;38380016
-589;Compton Exploration Company;1984;643;Micronesia;1127760
-590;Cantrell Space Program;1991;797;Tanzania;3829862
-591;Landry Space Program;1998;607;Spain;22702987
-592;Garner Science Program;1995;151;French Guiana;44092490
-593;Webster Space Institution;2006;878;Maldives;53509103
-594;Porter Space Program;1997;831;Costa Rica;73201115
-595;Jefferson Exploration Company;2004;346;Antigua & Barbuda;27225217
-596;Sawyer Exploration Company;1988;688;Cameroon;41890999
-597;Duncan Exploration Company;1991;463;Antigua & Barbuda;50038952
-598;Mcneil Astronomical Program;1994;109;Liberia;65033528
-599;Morales Astronomical Agency;2007;977;Sri Lanka;29644527
-600;Bishop Space Institution;2008;884;Gabon;56466852
-601;Doyle Science Program;2006;901;Aruba;12491102
-602;Sellers Exploration Company;1986;660;Uruguay;47336960
-603;Schmidt Space Institution;1997;589;Singapore;64525331
-604;Gray Exploration Company;1999;328;San Marino;15014434
-605;Chang Space Institution;1994;235;Oman;14738546
-606;Rose Science Company;1997;727;Ukraine;72371883
-607;Hodges Exploration Institution;1990;259;France;70115179
-608;Fleming Science Corporation;2005;266;Faroe Islands;39523844
-609;Ryan Space Agency;2001;191;Antarctica;78316304
-610;Baldwin Science Institution;1980;723;India;86046312
-611;Barry Exploration Company;1993;710;British Virgin Islands;23824150
-612;Gilliam Astronomical Program;1980;593;Belize;59342571
-613;Jacobson Exploration Corporation;2006;508;Djibouti;81843834
-614;Kelley Exploration Corporation;1983;791;Burundi;59158030
-615;Lester Science Institution;1992;355;Lebanon;19324824
-616;Knowles Astronomical Corporation;2003;229;Bermuda;87614676
-617;Webb Space Agency;1995;875;Equatorial Guinea;9489716
-618;Mercer Science Agency;2001;609;Azerbaijan;78009379
-619;Vazquez Astronomical Institution;1993;117;Zambia;99304340
-620;Hull Exploration Corporation;1981;597;St. Helena;14202025
-621;Larsen Astronomical Agency;1993;839;United States;32020313
-622;Langley Exploration Institution;1981;870;Trinidad & Tobago;33277496
-623;Kramer Exploration Corporation;1996;115;Canada;67520515
-624;Cantrell Exploration Agency;2008;849;Guadeloupe;53360775
-625;Vinson Exploration Program;1998;897;Iceland;15693941
-626;Puckett Space Company;1985;760;Kosovo;32394004
-627;Marshall Science Institution;2000;501;Venezuela;82772807
-628;Mcdowell Space Company;1989;985;Andorra;9593609
-629;Rich Astronomical Program;2010;992;Brazil;33375589
-630;Reid Astronomical Company;2001;210;Thailand;59015372
-631;Sexton Exploration Institution;1983;924;Jordan;21474797
-632;Rivera Science Company;1986;215;Myanmar;72803906
-633;Barker Space Company;1994;392;Samoa;16988669
-634;Burgess Science Agency;1998;390;Iraq;17219115
-635;Michael Astronomical Program;1999;301;St. Barthélemy;8538506
-636;Ortega Exploration Company;2008;516;Morocco;81808692
-637;Wheeler Astronomical Corporation;2002;239;Paraguay;74410719
-638;Holland Science Agency;2001;804;Kazakhstan;13616442
-639;Crosby Space Agency;1983;289;American Samoa;3467651
-640;Wagner Exploration Corporation;1988;115;Samoa;95755686
-641;Campos Science Institution;2000;903;British Virgin Islands;99486634
-642;Moran Space Agency;1994;337;St. Helena;81276670
-643;Woodard Astronomical Agency;1995;778;Guinea;83385542
-644;Juarez Astronomical Company;1985;701;Grenada;54305308
-645;Clarke Science Company;2010;632;Anguilla;66499420
-646;Melton Science Program;1980;244;Poland;87007357
-647;Mccullough Exploration Agency;1994;566;Sudan;95925247
-648;Mcclain Astronomical Corporation;2009;880;Montserrat;96890152
-649;Witt Exploration Corporation;1995;407;Tajikistan;44685391
-650;Burris Astronomical Program;2009;416;Chad;94901755
-651;Marks Astronomical Program;1996;515;Yemen;82016319
-652;Washington Exploration Company;1994;788;Kuwait;51549433
-653;Butler Astronomical Company;2004;216;Vatican City;49762470
-654;Mcgowan Exploration Corporation;1999;935;Antarctica;73930014
-655;Potter Exploration Institution;1992;952;Sudan;16024914
-656;Mccullough Space Agency;1984;407;Hungary;38448410
-657;Strong Exploration Company;2003;810;Haiti;45348530
-658;Burnett Space Agency;1995;786;Denmark;63214324
-659;Herring Science Company;1982;495;Zambia;93905474
-660;Hanson Space Corporation;2004;102;Hungary;34582481
-661;Roberson Space Institution;1991;825;Dominica;78771001
-662;Everett Space Agency;1996;424;Palestinian Territories;22918083
-663;Webb Science Agency;1998;569;Belarus;79166227
-664;Vazquez Exploration Program;2000;603;Cook Islands;82528876
-665;Richmond Exploration Institution;1982;641;Faroe Islands;37362830
-666;Swanson Astronomical Company;2005;370;Fiji;99479818
-667;Moss Exploration Company;1993;924;Kenya;81813374
-668;Sandoval Exploration Corporation;1982;984;Turks & Caicos Islands;25289415
-669;Vaughn Science Company;1986;236;Samoa;84705135
-670;Rutledge Astronomical Program;1986;214;Algeria;80895556
-671;Stone Space Corporation;2004;490;Montserrat;85381591
-672;White Astronomical Institution;2004;874;China;80910786
-673;Sampson Science Corporation;2004;176;Austria;50429122
-674;Turner Exploration Company;2009;678;Uganda;70937860
-675;Hunt Space Institution;2006;107;South Georgia & South Sandwich Islands;67339630
-676;Fowler Science Program;2003;526;Bahrain;71144874
-677;Fleming Space Corporation;2008;651;Brunei;48408460
-678;Guerrero Science Program;1981;785;Paraguay;67442325
-679;Crane Space Program;2004;586;Indonesia;56718962
-680;Morrison Space Program;1989;810;Pakistan;29746102
-681;Pennington Exploration Company;1993;240;Trinidad & Tobago;19209724
-682;Boyd Astronomical Agency;1990;559;Sudan;26459084
-683;Austin Exploration Agency;1998;116;Gibraltar;92518782
-684;Vasquez Exploration Corporation;1999;170;Mozambique;42800455
-685;Atkins Science Company;1991;982;Ireland;48006203
-686;Rodgers Astronomical Corporation;2005;129;Czech Republic;71955235
-687;Browning Exploration Program;1985;962;Nicaragua;3224609
-688;Frye Exploration Institution;1984;403;Fiji;42867293
-689;Santana Science Company;2009;444;Mali;20425351
-690;West Science Agency;1980;318;Paraguay;56082730
-691;Miranda Space Corporation;2000;167;Canary Islands;23818821
-692;Macdonald Space Institution;1999;339;Italy;97371608
-693;Haynes Space Program;1990;487;Japan;18183616
-694;Mcclain Astronomical Company;1982;902;Iran;41808394
-695;Wolfe Exploration Company;1984;424;Ceuta & Melilla;47443292
-696;Vasquez Astronomical Program;2000;932;Argentina;84208965
-697;Warner Space Corporation;1999;634;Egypt;80739803
-698;Brennan Space Institution;2007;795;Estonia;1035939
-699;Spence Exploration Program;1994;943;Turkey;96888834
-700;Rodriguez Astronomical Agency;2001;724;Switzerland;67127429
-701;Simon Science Company;1996;153;Vatican City;96229417
-702;Bray Exploration Corporation;2003;101;Mexico;6490813
-703;Vasquez Space Program;1990;791;Equatorial Guinea;62888120
-704;Parsons Astronomical Corporation;2004;546;Swaziland;27264473
-705;Ball Astronomical Company;1987;227;San Marino;49581666
-706;Roy Science Company;1990;317;Tristan da Cunha;8795471
-707;Vincent Exploration Corporation;1997;273;Chad;70053260
-708;Serrano Astronomical Program;1981;861;Tonga;14179553
-709;Christian Astronomical Company;1986;921;British Indian Ocean Territory;55121421
-710;Heath Space Institution;2010;560;Slovenia;2456420
-711;Aguirre Science Institution;2000;232;Tonga;99843565
-712;Wise Space Program;1999;417;Curaçao;30310593
-713;Lewis Space Program;1981;785;Dominica;42745698
-714;Patterson Astronomical Corporation;1989;625;British Indian Ocean Territory;65781299
-715;Gonzales Exploration Agency;2010;182;Tajikistan;61451672
-716;Frost Exploration Company;1984;405;Palau;25416792
-717;Mcclure Astronomical Company;2006;535;Pitcairn Islands;56353435
-718;Kaufman Astronomical Company;2003;181;Italy;52272401
-719;Lynch Exploration Company;2007;800;Grenada;94420183
-720;Kinney Exploration Institution;1990;380;Cocos;64112438
-721;Turner Exploration Institution;2005;524;Gibraltar;31817451
-722;Beasley Space Institution;1996;513;Luxembourg;76686298
-723;Flynn Astronomical Corporation;1999;123;Sweden;77267443
-724;Larsen Exploration Company;1994;831;Tunisia;26950976
-725;Lowe Space Institution;1994;317;Philippines;64092017
-726;Wolf Astronomical Company;1995;879;Tajikistan;79365706
-727;Romero Astronomical Company;1985;537;Zambia;33395959
-728;Foley Astronomical Agency;1990;496;Andorra;31167473
-729;Farley Astronomical Agency;2001;502;Palestinian Territories;37956278
-730;Peck Space Company;1988;196;Canada;90729567
-731;Goodwin Astronomical Agency;1980;812;Lebanon;63879522
-732;Sanders Science Institution;1993;967;Kenya;42633709
-733;Velez Space Corporation;1987;649;Svalbard & Jan Mayen;69827123
-734;Nunez Exploration Company;1987;908;Nauru;25190757
-735;Calderon Science Corporation;2008;921;Namibia;97974891
-736;Stevens Astronomical Agency;1980;902;Kazakhstan;84769790
-737;Cardenas Astronomical Agency;1995;984;Botswana;60703275
-738;Clay Exploration Program;2009;381;Spain;3196815
-739;Marks Science Agency;1998;313;Qatar;64710608
-740;Gaines Astronomical Program;1998;352;France;73607281
-741;Key Exploration Agency;2000;576;Colombia;23445584
-742;Combs Science Program;1995;497;Mauritania;54716714
-743;Mcdaniel Astronomical Agency;1994;670;Anguilla;36515160
-744;Haley Space Agency;2000;364;Syria;46591821
-745;Hooper Astronomical Company;1993;587;San Marino;44335700
-746;Bass Space Institution;1984;604;Western Sahara;35415168
-747;Wallace Space Program;1989;814;Ghana;53846804
-748;Peck Science Institution;1986;286;Norway;5796482
-749;Meyer Exploration Corporation;1999;865;Mali;14395121
-750;Hood Space Program;1999;777;Mali;26039823
-751;Solis Space Company;1991;149;Georgia;69342420
-752;Holcomb Science Corporation;2009;666;Guinea-Bissau;60359904
-753;Bruce Space Agency;2003;234;Liechtenstein;38220378
-754;Ramsey Exploration Agency;1988;757;Uzbekistan;34553737
-755;Colon Exploration Agency;1984;311;Falkland Islands;81786628
-756;Cummings Science Program;1991;796;Ecuador;83988507
-757;Burns Exploration Company;1997;190;Sweden;90343863
-758;Cummings Space Agency;2003;444;Ireland;17970327
-759;Erickson Astronomical Institution;2009;120;British Indian Ocean Territory;90413875
-760;Evans Exploration Agency;1997;170;Sudan;15749417
-761;Lester Space Corporation;2006;703;Greece;35328181
-762;Mckee Astronomical Program;1994;778;Armenia;36168750
-763;Reynolds Exploration Company;1991;738;Tokelau;96848042
-764;Ward Astronomical Program;1999;735;Cayman Islands;61015225
-765;Patton Science Program;1993;943;South Georgia & South Sandwich Islands;44479764
-766;Steele Space Agency;2004;935;Guinea;10044424
-767;Cooley Science Institution;1996;133;Sudan;79565181
-768;Hale Exploration Corporation;1999;186;Suriname;28286429
-769;Ellis Astronomical Agency;2000;868;Malaysia;24786462
-770;Gilmore Space Institution;1980;832;Vatican City;39375177
-771;Duran Exploration Company;1986;875;France;71794645
-772;Carlson Exploration Corporation;2009;968;Panama;93752485
-773;Gray Science Corporation;1985;277;Czech Republic;77952426
-774;Noel Exploration Agency;1982;335;Poland;42568062
-775;Petersen Space Institution;2003;145;New Zealand;29541671
-776;Hogan Exploration Company;1982;862;Isle of Man;68759547
-777;Casey Space Company;1984;158;Bermuda;80935635
-778;Cooper Space Program;2006;457;Mali;37403141
-779;Farmer Science Agency;1981;762;El Salvador;85688710
-780;Reeves Astronomical Company;2006;791;Macau SAR China;70924880
-781;Kelley Astronomical Program;1981;720;Anguilla;34805218
-782;Pugh Space Program;1997;367;Czech Republic;42842412
-783;Duran Science Program;1981;756;Angola;16339774
-784;Kelly Space Program;1992;516;Timor-Leste;52379944
-785;Vincent Exploration Corporation;1984;606;Malawi;80547557
-786;Townsend Space Agency;1993;208;Isle of Man;54218042
-787;Stephens Astronomical Agency;1998;828;Macau SAR China;26387282
-788;Mccullough Exploration Program;2010;170;Brunei;92868059
-789;Lynn Science Agency;1982;408;Latvia;55814853
-790;Mercer Science Company;2002;687;Kosovo;72940957
-791;Carey Space Corporation;1992;408;Palau;6224276
-792;Wise Astronomical Corporation;2003;174;Philippines;67378873
-793;Bishop Science Institution;2006;731;Angola;32513539
-794;Ruiz Exploration Company;1986;515;British Virgin Islands;45363295
-795;Whitney Exploration Institution;1991;471;Mauritius;67714519
-796;Howard Exploration Company;1983;304;Mozambique;59598081
-797;Cook Exploration Company;1993;938;United Arab Emirates;49505835
-798;Bernard Space Institution;1982;720;Puerto Rico;63160082
-799;Chen Exploration Corporation;1995;786;Afghanistan;39891850
-800;Haney Space Company;2009;887;Bangladesh;38662492
-801;Walter Exploration Corporation;2003;485;Moldova;1251233
-802;Donaldson Space Company;1986;656;Guinea-Bissau;66975343
-803;Blanchard Astronomical Agency;2005;643;Micronesia;81490173
-804;Case Astronomical Program;1985;158;São Tomé & Príncipe;15796599
-805;Campos Space Program;2000;901;Georgia;45321680
-806;Glass Science Institution;1992;112;Canada;8423496
-807;Franklin Astronomical Company;2010;688;Cayman Islands;72748566
-808;Castaneda Exploration Agency;2000;634;Gabon;86162920
-809;Booth Space Corporation;1998;797;Turkmenistan;72383535
-810;Gay Space Company;2004;832;Sweden;19655696
-811;Mejia Exploration Institution;2000;997;Jamaica;95632055
-812;Simmons Science Corporation;2000;705;Rwanda;23906488
-813;Carlson Space Institution;2001;193;Malawi;24685258
-814;Holden Exploration Corporation;1987;247;Antarctica;20966916
-815;Shields Astronomical Corporation;2000;256;St. Lucia;12186869
-816;Hodge Exploration Agency;1999;283;Brazil;16301215
-817;Burns Space Agency;1991;695;Iceland;25274344
-818;Robbins Exploration Agency;1994;212;Micronesia;12845320
-819;Sexton Exploration Company;2005;623;Belarus;69760001
-820;Thompson Astronomical Agency;2010;126;Cayman Islands;41609095
-821;Rosales Exploration Company;1997;312;Saudi Arabia;4682070
-822;Schneider Astronomical Company;1997;794;Malta;92635788
-823;Bailey Exploration Corporation;1985;889;Monaco;81888284
-824;Booth Astronomical Company;1982;370;United Kingdom;2983193
-825;Goff Exploration Corporation;2008;326;Guam;77028993
-826;Marsh Science Program;1992;439;Saudi Arabia;65604127
-827;Kirby Exploration Program;1990;214;Australia;31386416
-828;Davidson Exploration Corporation;2008;949;Paraguay;35637800
-829;Duran Astronomical Program;2009;166;Iran;83835441
-830;Sweet Science Program;2004;777;Mayotte;19465551
-831;Ware Astronomical Institution;1998;395;Mauritius;8065835
-832;Robles Science Company;2009;750;Madagascar;60876454
-833;Zimmerman Space Program;1997;437;Cook Islands;83664297
-834;Spence Space Program;1999;172;Tunisia;98256820
-835;Cook Exploration Program;1984;991;British Indian Ocean Territory;44025761
-836;Henderson Exploration Program;2008;771;Serbia;31836896
-837;Fisher Astronomical Corporation;2008;918;Sudan;3098555
-838;Atkinson Science Institution;2009;928;Lebanon;24663951
-839;Rutledge Astronomical Corporation;1990;968;Bangladesh;64293343
-840;Osborn Science Program;1999;922;Pakistan;1904138
-841;Jefferson Exploration Agency;1984;576;Sudan;83551216
-842;Hardin Exploration Corporation;2005;820;Uzbekistan;78399458
-843;Austin Space Company;2010;573;Afghanistan;87324690
-844;Joyner Science Company;2009;181;Lebanon;63597661
-845;Fowler Science Program;1997;353;Solomon Islands;34559084
-846;Goff Exploration Program;1986;432;Ethiopia;44706759
-847;Ratliff Science Program;2008;943;France;26505489
-848;Byers Science Corporation;1997;403;Tristan da Cunha;30860295
-849;Larsen Science Institution;1993;237;Nepal;59132226
-850;Shaffer Exploration Agency;1994;1000;Equatorial Guinea;79630038
-851;Mcmahon Space Program;1980;408;Tuvalu;93357704
-852;Mcintyre Science Corporation;2002;880;Indonesia;27229825
-853;York Exploration Institution;1989;803;Niger;22164042
-854;Holden Science Institution;1997;385;Philippines;45393365
-855;Albert Astronomical Program;1985;151;South Georgia & South Sandwich Islands;59073042
-856;Pena Exploration Company;1989;900;North Korea;20676515
-857;Cote Space Corporation;1980;538;Svalbard & Jan Mayen;35514651
-858;Duffy Exploration Program;1993;576;Kiribati;14056417
-859;Norman Astronomical Program;2002;181;Liberia;30670823
-860;Dunlap Astronomical Company;1992;969;San Marino;55220840
-861;Farley Exploration Institution;2002;916;Vanuatu;73152024
-862;Moses Science Program;2001;785;Åland Islands;81539351
-863;Craft Astronomical Institution;1991;745;Benin;43987106
-864;Robertson Space Corporation;1999;394;Cuba;29578301
-865;Slater Space Corporation;1996;831;Congo - Brazzaville;53744985
-866;Macdonald Astronomical Program;1982;925;Ecuador;62274668
-867;Everett Exploration Program;2003;574;Swaziland;61070304
-868;Lane Space Agency;1985;682;Belarus;73841275
-869;Spears Exploration Agency;1991;572;British Virgin Islands;14202920
-870;Schroeder Exploration Program;1985;101;Switzerland;17027763
-871;Carpenter Exploration Company;2003;401;Sri Lanka;70497690
-872;Lawson Exploration Institution;2008;284;Mauritius;17409757
-873;Murray Science Institution;1993;119;Albania;5781485
-874;Wiggins Science Corporation;2000;449;Guernsey;28860387
-875;Ingram Science Agency;1980;829;Bermuda;74021391
-876;George Space Corporation;2001;342;Solomon Islands;95365062
-877;May Science Program;1997;757;Solomon Islands;54109953
-878;Holt Astronomical Corporation;1982;580;Wallis & Futuna;12687177
-879;Boyle Exploration Program;1985;325;Martinique;72967877
-880;Dorsey Exploration Agency;1982;432;Togo;67042978
-881;Wooten Science Institution;1996;361;Tristan da Cunha;6464246
-882;York Exploration Agency;1985;109;Somalia;7490803
-883;Fitzpatrick Astronomical Institution;2002;235;Macedonia;40395175
-884;Franks Astronomical Corporation;2002;742;Lebanon;52926704
-885;Hammond Science Corporation;1988;952;Egypt;80489437
-886;Strong Astronomical Company;1997;788;Central African Republic;76198998
-887;Dawson Space Program;1996;320;United Kingdom;92009485
-888;Norris Space Program;1996;532;Angola;42786884
-889;Vargas Space Program;1987;337;Austria;48950280
-890;Guerra Space Company;2004;105;Timor-Leste;40872986
-891;Mayo Exploration Institution;2003;433;Wallis & Futuna;35640547
-892;Richardson Exploration Corporation;2003;572;Kosovo;11571196
-893;Gutierrez Exploration Company;2002;729;Réunion;69050271
-894;Michael Science Institution;1981;979;Indonesia;24464928
-895;White Exploration Company;1989;514;Israel;57236970
-896;Irwin Science Corporation;2006;577;Czech Republic;93764235
-897;Schwartz Astronomical Company;1981;308;Armenia;26460932
-898;Mccoy Exploration Corporation;2000;477;United Kingdom;94617459
-899;Gonzalez Exploration Corporation;1985;435;Romania;36125088
-900;Vaughan Science Institution;1998;321;Botswana;15575023
-901;Orr Astronomical Corporation;1997;221;Qatar;61950539
-902;Solis Exploration Agency;2009;930;Central African Republic;12817093
-903;Levy Astronomical Company;1990;608;Uruguay;60066817
-904;Faulkner Space Program;2000;995;Italy;53824964
-905;Thomas Astronomical Institution;2000;517;Ethiopia;68854774
-906;Mcclain Science Program;1990;273;Christmas Island;10301310
-907;Holt Space Corporation;1999;381;Armenia;28845907
-908;Kidd Astronomical Program;1987;810;Central African Republic;99944951
-909;Brooks Astronomical Company;1995;302;Russia;7745322
-910;Barrera Science Corporation;1984;242;Belarus;68331547
-911;Perry Science Corporation;1985;294;French Southern Territories;69312382
-912;Gordon Space Institution;1990;277;United Arab Emirates;76993026
-913;Mckinney Space Agency;1992;994;Pakistan;98448860
-914;Miranda Science Company;2008;817;Marshall Islands;90547755
-915;Owens Exploration Agency;1989;356;Argentina;34827169
-916;Craft Exploration Company;1986;227;Sri Lanka;14584569
-917;Velasquez Astronomical Agency;2007;157;Ecuador;51724839
-918;Murphy Exploration Company;1991;323;Netherlands;36655241
-919;Garza Exploration Corporation;2007;557;Antigua & Barbuda;76100114
-920;Bruce Exploration Program;2006;863;Czech Republic;3323641
-921;Booker Space Company;1996;762;Malaysia;82580244
-922;Macdonald Exploration Company;1990;337;British Indian Ocean Territory;46004626
-923;Spence Space Company;1989;959;French Polynesia;88205513
-924;Reilly Space Corporation;2006;122;Luxembourg;58841922
-925;Brock Space Corporation;1989;583;Ghana;12221400
-926;Little Astronomical Program;1993;964;Zimbabwe;77387740
-927;Salinas Space Corporation;2009;182;Sierra Leone;33471641
-928;Hewitt Space Agency;2005;466;Guinea;31331060
-929;Mercer Space Corporation;1999;496;Romania;57423773
-930;Santos Science Agency;1991;631;Sint Maarten;72405868
-931;Stevenson Exploration Corporation;2004;676;Réunion;56451195
-932;Livingston Space Company;2001;191;Kenya;68869936
-933;Day Astronomical Agency;2001;527;Bulgaria;81406003
-934;Brown Science Company;1995;486;Egypt;2069258
-935;Carson Science Company;2008;579;Northern Mariana Islands;35865917
-936;Juarez Astronomical Agency;1985;342;Bolivia;73530146
-937;Gillespie Exploration Company;2001;734;American Samoa;61630796
-938;Delaney Space Company;1982;773;Diego Garcia;92445105
-939;Cooper Astronomical Corporation;1996;666;Madagascar;46445700
-940;Simpson Science Agency;1980;650;Nauru;3309527
-941;Sherman Science Corporation;2010;122;Malta;73107528
-942;Simon Space Institution;1988;457;Lithuania;35574322
-943;Nelson Science Institution;1988;829;Slovenia;68953337
-944;Allison Science Company;1985;324;Moldova;94829889
-945;Ross Exploration Institution;2008;772;Mayotte;26050297
-946;Shaw Exploration Program;2007;660;British Indian Ocean Territory;97816594
-947;Reese Science Corporation;1993;106;New Zealand;61412397
-948;Kinney Astronomical Agency;2007;950;Myanmar;96828291
-949;Hardin Science Program;1997;554;Montserrat;9213253
-950;Stewart Exploration Corporation;1988;347;Libya;21058583
-951;Graves Astronomical Program;1981;955;Armenia;80993347
-952;Crosby Science Agency;2008;402;Suriname;67049612
-953;Gay Exploration Agency;2009;442;Switzerland;51420627
-954;Stone Astronomical Institution;1990;187;Estonia;16474572
-955;Hicks Astronomical Program;1985;952;Namibia;85133203
-956;Maldonado Astronomical Program;2003;668;Syria;8379687
-957;Guzman Science Program;1989;891;Timor-Leste;19294580
-958;Flowers Science Company;2008;947;Norfolk Island;18363605
-959;Cooley Exploration Corporation;1988;179;Colombia;76803689
-960;Alvarez Space Agency;1997;679;Belize;27968638
-961;Marsh Space Institution;1997;186;Sint Maarten;21191870
-962;Yates Astronomical Agency;1981;455;Algeria;76847585
-963;Curry Science Agency;1986;500;United Arab Emirates;76416053
-964;Ferrell Science Program;1998;936;Hungary;97777160
-965;Bauer Exploration Agency;2008;977;Nigeria;57761447
-966;Joyce Astronomical Program;1999;845;Dominica;35263404
-967;Mccarthy Space Institution;1987;830;Uzbekistan;63175577
-968;Horton Space Institution;2009;589;South Africa;65952369
-969;Irwin Astronomical Agency;1996;992;Latvia;16275604
-970;Rios Exploration Institution;1993;636;Netherlands;92428528
-971;Mack Exploration Corporation;2009;782;Zambia;79109277
-972;Hawkins Space Program;1988;465;French Polynesia;23252796
-973;Dennis Exploration Corporation;1993;430;Mauritius;5431044
-974;Roach Science Agency;1998;205;Anguilla;49336938
-975;Baird Science Corporation;1980;766;Belgium;1875743
-976;May Science Corporation;1980;111;India;48499435
-977;Dixon Science Company;1999;500;Benin;4365653
-978;Shannon Exploration Program;1998;666;Benin;1691994
-979;Simmons Exploration Program;1995;199;Congo - Brazzaville;48677717
-980;Church Space Agency;2010;880;Cocos;29959326
-981;Torres Astronomical Institution;1980;899;Tristan da Cunha;49726091
-982;Solomon Science Agency;2004;683;Hong Kong SAR China;68828528
-983;Howe Space Corporation;1992;334;Kyrgyzstan;72339812
-984;Cleveland Space Corporation;1986;823;Belize;62793095
-985;Conley Astronomical Agency;1997;490;Mali;59724980
-986;Mann Astronomical Company;1986;653;Luxembourg;49560904
-987;Heath Astronomical Program;1992;748;Andorra;14095170
-988;Sears Science Company;1999;341;Faroe Islands;73640950
-989;Wade Astronomical Institution;1995;441;Argentina;38928254
-990;Bullock Space Institution;2004;343;Samoa;56459156
-991;Humphrey Astronomical Program;1994;323;Malaysia;94725353
-992;Horn Exploration Program;1980;592;Oman;16910859
-993;Morris Astronomical Institution;2005;330;Norway;95567951
-994;Prince Exploration Institution;1983;370;Eritrea;83021624
-995;Berry Exploration Agency;1995;229;Canary Islands;43870921
-996;Delgado Exploration Company;1983;952;Trinidad & Tobago;75065659
-997;Mullen Astronomical Corporation;1996;988;Australia;67190876
-998;Huber Exploration Company;1986;746;Montenegro;93673214
-999;Snider Exploration Company;1993;303;Egypt;93842465
-1000;Park Science Institution;1982;262;U.S. Virgin Islands;73559686
-1001;Kerbal Space Program;1990;700;Kerbin;10000000
+1;Albert Exploration Program;1988;512;Argentina;22760149
+2;Holden Space Corporation;1985;340;U.S. Virgin Islands;20861069
+3;Little Space Institution;2009;899;Somalia;8253332
+4;O'donnell Science Agency;1987;931;Dominican Republic;9056872
+5;Sampson Astronomical Corporation;2006;326;Ecuador;35289464
+6;Klein Science Company;1998;770;British Indian Ocean Territory;86781704
+7;Clark Astronomical Agency;1991;146;Norway;82110198
+8;Powers Science Company;1997;991;Dominican Republic;47296363
+9;Stewart Exploration Institution;1992;611;Christmas Island;62802827
+10;Peterson Exploration Agency;1999;172;Papua New Guinea;76369164
+11;Foster Astronomical Agency;1982;828;Austria;69959402
+12;Moreno Exploration Company;1990;594;Cyprus;82963551
+13;Slater Exploration Agency;1985;725;Martinique;80023566
+14;Reeves Astronomical Program;1987;451;Indonesia;97368055
+15;Jensen Exploration Institution;2002;156;Madagascar;14365182
+16;Foster Astronomical Agency;1995;596;Croatia;60724876
+17;Arnold Exploration Program;1991;327;Austria;53922178
+18;Best Science Company;1992;729;U.S. Outlying Islands;67437986
+19;Moody Astronomical Institution;2001;763;Georgia;23901534
+20;Hickman Space Program;2003;972;Sint Maarten;20479344
+21;Green Space Company;1980;771;Tristan da Cunha;32663427
+22;Osborn Astronomical Agency;1996;345;Kenya;11103802
+23;Lee Astronomical Program;2006;490;Kenya;29563201
+24;Ball Exploration Institution;1996;381;St. Pierre & Miquelon;38843125
+25;Tran Science Company;1987;671;Albania;77403490
+26;Hooper Science Corporation;1997;763;Palestinian Territories;95668345
+27;Gilbert Space Agency;1995;229;Gibraltar;46983961
+28;Langley Space Agency;2004;259;Thailand;92374516
+29;Parsons Astronomical Agency;1983;132;Namibia;15021884
+30;Glass Science Agency;2000;543;Tajikistan;7443873
+31;Montgomery Astronomical Institution;1986;493;Senegal;28434468
+32;Greene Exploration Institution;1999;724;Philippines;37783210
+33;Valenzuela Astronomical Agency;1991;115;Benin;42082743
+34;Rich Astronomical Institution;1982;928;Guadeloupe;26631138
+35;Duncan Astronomical Program;1985;383;Netherlands;70835650
+36;Garza Astronomical Program;1993;828;Myanmar;9495212
+37;Bond Astronomical Institution;1993;584;Russia;84510734
+38;Decker Science Company;1996;374;Central African Republic;33147462
+39;Joseph Astronomical Corporation;1994;373;Swaziland;18994156
+40;Harrell Astronomical Company;2006;519;Guinea;24881203
+41;Gay Exploration Institution;2008;344;Micronesia;35838066
+42;Mcfarland Exploration Agency;1996;511;South Sudan;17775110
+43;Montgomery Science Institution;2008;866;China;92943844
+44;Murphy Astronomical Corporation;2005;733;American Samoa;15721840
+45;Jacobs Exploration Company;2008;327;Dominica;34455869
+46;Velez Astronomical Corporation;1986;607;South Korea;64474865
+47;Mathews Exploration Institution;2008;313;Turkmenistan;22773970
+48;Sheppard Science Institution;1988;581;Ecuador;96256856
+49;Munoz Science Corporation;2008;815;Romania;99264126
+50;Fuentes Science Agency;1980;410;Liechtenstein;76599463
+51;Poole Space Institution;1998;664;Japan;28576740
+52;Serrano Exploration Institution;1981;391;Falkland Islands;72225151
+53;Hurley Science Institution;1987;139;Canada;56377073
+54;Vega Exploration Institution;2010;283;Myanmar;95062174
+55;Wynn Exploration Agency;2007;993;Yemen;90599185
+56;Forbes Exploration Agency;1988;668;Cyprus;86582333
+57;Bowman Astronomical Institution;2009;478;Puerto Rico;99026659
+58;Morton Space Corporation;1997;180;Panama;45151747
+59;Maynard Astronomical Company;1990;908;Equatorial Guinea;59808810
+60;Cain Exploration Institution;2004;744;Cayman Islands;33595880
+61;Mcintosh Space Institution;1980;640;Italy;29103279
+62;Lamb Astronomical Agency;2004;803;Anguilla;97598028
+63;Ellison Space Company;1987;294;Solomon Islands;95806798
+64;Wyatt Astronomical Agency;1999;579;Kosovo;21921594
+65;Fowler Science Institution;2008;652;Djibouti;8255461
+66;Bush Exploration Program;1990;421;Turkey;12763275
+67;Bender Astronomical Company;1994;194;Ceuta & Melilla;79013350
+68;Sandoval Exploration Institution;1982;863;Australia;94170126
+69;Ellis Astronomical Agency;2000;656;Vanuatu;28957894
+70;Mcintyre Exploration Program;1982;494;Poland;54493773
+71;Lindsay Science Agency;2008;278;Cuba;8164041
+72;Bird Astronomical Corporation;2009;348;Falkland Islands;33560928
+73;Landry Astronomical Institution;2008;165;Belize;56059108
+74;Pitts Exploration Corporation;1993;755;Palau;18581382
+75;Stephenson Science Company;1998;542;New Zealand;57781401
+76;Conrad Astronomical Company;1994;183;Serbia;65303377
+77;Wilcox Space Corporation;2000;509;Morocco;63188422
+78;Summers Exploration Agency;2010;741;Greenland;46998073
+79;Horne Exploration Program;1989;819;Bulgaria;53006811
+80;Conley Science Program;1981;947;Christmas Island;48075793
+81;Colon Exploration Company;1983;665;Guinea;69156908
+82;Moreno Exploration Agency;1984;935;Cyprus;79313200
+83;Mccray Exploration Institution;1981;520;Estonia;42615190
+84;Young Science Corporation;1980;436;Cambodia;99051254
+85;Rush Science Company;1986;541;Morocco;75382965
+86;Puckett Astronomical Institution;1982;723;Malawi;6311692
+87;Huff Space Company;2003;560;Cape Verde;1597299
+88;Willis Science Company;2008;868;Benin;50958266
+89;Bates Exploration Program;2010;402;Maldives;49731436
+90;Green Science Program;1990;974;Cambodia;70809711
+91;Ford Space Agency;1999;678;Suriname;78247798
+92;Hays Astronomical Company;1996;940;Sri Lanka;87689929
+93;Morton Science Corporation;1982;454;Canary Islands;35997663
+94;Shepard Exploration Institution;1991;716;Mayotte;85887759
+95;Keller Astronomical Institution;1994;940;Dominican Republic;64165092
+96;Albert Space Company;1990;355;Tunisia;25721713
+97;Hammond Science Company;1991;164;Guam;47925758
+98;Hill Astronomical Corporation;1998;570;Spain;6925777
+99;English Space Agency;2009;267;Macedonia;69314725
+100;Frank Space Company;1998;931;Eritrea;71257842
+101;Collins Astronomical Company;2010;705;South Africa;40732277
+102;Farrell Science Company;1998;362;Jamaica;38821269
+103;Henry Space Institution;2003;482;Liechtenstein;99527116
+104;Chen Exploration Company;1990;543;Falkland Islands;49461587
+105;Noel Science Institution;1991;530;British Indian Ocean Territory;7804162
+106;Ewing Space Company;1998;198;Comoros;17373413
+107;Hurst Science Agency;1986;689;Mozambique;23081359
+108;Clayton Science Company;2004;967;Gambia;8924061
+109;Richmond Science Agency;1983;900;Mongolia;59898811
+110;Hahn Science Company;2010;435;Tristan da Cunha;45543997
+111;Banks Astronomical Institution;2008;680;Austria;28085143
+112;Morrison Astronomical Program;1999;597;St. Kitts & Nevis;33882175
+113;Haley Astronomical Agency;1981;401;French Southern Territories;88589629
+114;Silva Space Program;2005;580;Seychelles;81648753
+115;Mcguire Science Agency;1999;246;Uzbekistan;13982348
+116;Sharp Science Agency;2005;641;Nauru;81869246
+117;Steele Exploration Agency;1985;809;Mongolia;50901537
+118;Glover Science Corporation;2003;378;Guadeloupe;36293531
+119;Perkins Astronomical Program;2010;707;Christmas Island;47284347
+120;Jenkins Exploration Corporation;1981;519;Brazil;52876281
+121;Grimes Space Corporation;1990;651;Montenegro;19910997
+122;Rollins Space Program;1987;129;Denmark;74423489
+123;Ward Science Institution;2008;438;Egypt;15054764
+124;Schultz Exploration Program;1985;690;St. Vincent & Grenadines;5059577
+125;Walters Science Company;2000;642;Åland Islands;47158339
+126;Fischer Space Corporation;1988;364;New Caledonia;26990375
+127;Howard Science Corporation;2007;553;St. Vincent & Grenadines;64635539
+128;Webb Science Agency;2005;926;Guinea;94245721
+129;Gaines Space Program;1999;581;Seychelles;41281296
+130;Avila Astronomical Agency;2008;488;Cambodia;69054038
+131;Macdonald Science Agency;2002;878;Mauritania;14078625
+132;Hoover Astronomical Company;1988;594;North Korea;31382903
+133;Ellison Exploration Program;2004;694;Caribbean Netherlands;44819321
+134;Brock Science Agency;1995;626;French Southern Territories;91161494
+135;Hendrix Science Corporation;1990;467;Argentina;38797178
+136;Kennedy Astronomical Agency;1987;626;United Arab Emirates;69181327
+137;Church Science Agency;2009;122;American Samoa;78640587
+138;Tucker Space Corporation;1993;288;Bahamas;7195178
+139;Mathis Science Agency;2000;826;Nigeria;32124025
+140;Gibson Science Agency;1985;212;Cocos;72266361
+141;Johnston Space Institution;1982;215;Mozambique;51407366
+142;Beach Science Agency;1988;146;Saudi Arabia;51935154
+143;Holden Exploration Agency;1984;933;Turks & Caicos Islands;95450519
+144;Burch Astronomical Agency;1998;833;Norway;1289640
+145;Gordon Science Agency;2003;989;Uzbekistan;84216468
+146;Humphrey Astronomical Corporation;2002;347;Sweden;2886358
+147;Atkinson Astronomical Institution;2007;748;Madagascar;90587829
+148;Fernandez Astronomical Corporation;2004;469;Switzerland;90853403
+149;Church Exploration Institution;2007;765;Mauritania;96249613
+150;Cobb Science Agency;2000;599;Macedonia;81583481
+151;Alvarado Astronomical Institution;2000;244;Yemen;84312543
+152;Wilkerson Science Institution;2003;779;Cambodia;38134130
+153;Morris Astronomical Agency;2005;273;Philippines;44514734
+154;Pickett Science Agency;1986;569;Uruguay;19567313
+155;Sutton Astronomical Company;1985;976;Belarus;28763576
+156;Blevins Space Company;1995;915;Botswana;96092649
+157;Bowen Science Company;1995;918;Slovenia;6634292
+158;Guerra Astronomical Program;1989;845;Slovenia;90000437
+159;Weber Space Corporation;1997;681;San Marino;86910933
+160;Mason Science Agency;2000;358;Malawi;26642157
+161;Snyder Science Corporation;1980;637;Burundi;92140198
+162;Rowland Space Corporation;1980;604;Switzerland;8730090
+163;Burton Exploration Company;1985;727;Yemen;51705852
+164;Dean Astronomical Program;1980;291;Switzerland;66213066
+165;Bullock Exploration Agency;2001;984;Western Sahara;71598439
+166;Franks Space Agency;1989;336;Isle of Man;77844298
+167;Reeves Space Program;1988;735;Kyrgyzstan;71071788
+168;Dawson Astronomical Company;2004;913;Canada;97510949
+169;Carter Space Program;1984;588;Lebanon;89172695
+170;Marquez Astronomical Corporation;2008;549;Barbados;28707336
+171;West Space Institution;2003;377;United Kingdom;20506330
+172;Winters Space Institution;1987;862;Tokelau;27502138
+173;Ingram Space Company;1984;900;Austria;20726651
+174;Vang Science Program;2002;743;Cocos;54303427
+175;Cameron Exploration Program;2007;501;Thailand;13775965
+176;Holcomb Space Program;1992;800;Romania;36382897
+177;Cervantes Exploration Agency;1989;792;French Southern Territories;40490556
+178;Bowen Exploration Corporation;1982;778;Belarus;28337135
+179;Kirby Science Company;1997;183;Croatia;91318469
+180;Bean Astronomical Corporation;1999;483;Albania;84712247
+181;Craig Astronomical Agency;1980;101;Seychelles;31650641
+182;Ingram Exploration Agency;2009;780;Singapore;25367901
+183;Brewer Astronomical Institution;2003;519;Faroe Islands;2423281
+184;Anderson Astronomical Corporation;1981;816;Wallis & Futuna;35534808
+185;Cummings Science Company;2003;164;New Caledonia;6723776
+186;Leach Exploration Agency;2000;632;Curaçao;62994451
+187;Chang Space Corporation;1995;343;Bosnia & Herzegovina;46283087
+188;Bonner Astronomical Institution;1984;911;Belize;29924161
+189;Mercer Space Program;2008;517;Philippines;8695657
+190;Harper Astronomical Institution;1995;889;Palau;64651874
+191;Gross Science Institution;1992;249;Guyana;77763786
+192;Patel Science Agency;1992;838;Tristan da Cunha;2315635
+193;Woodward Space Company;1993;897;South Africa;7265145
+194;Bradford Exploration Agency;2006;914;Qatar;47043141
+195;Wells Astronomical Agency;2010;306;British Indian Ocean Territory;52375254
+196;Tate Astronomical Program;2007;429;Georgia;47297147
+197;Mcgee Space Agency;2001;588;Cayman Islands;97639581
+198;Patrick Exploration Program;2000;738;Wallis & Futuna;58577013
+199;Lang Science Agency;1982;319;South Georgia & South Sandwich Islands;68865532
+200;Briggs Science Program;2007;178;Comoros;30456889
+201;Blankenship Space Institution;1994;529;Turkey;64117838
+202;Quinn Astronomical Corporation;1990;718;Grenada;22759011
+203;Marsh Space Company;1988;659;Guinea;73333354
+204;Rowland Space Institution;1997;379;St. Vincent & Grenadines;61924305
+205;Norton Science Institution;2002;280;Ceuta & Melilla;67897228
+206;Faulkner Astronomical Program;2006;705;Zimbabwe;86532613
+207;Lancaster Exploration Institution;2008;507;Guatemala;29155119
+208;Harvey Exploration Corporation;1999;679;Syria;42744637
+209;Franco Space Company;1988;567;Haiti;34369189
+210;Campos Exploration Agency;1988;410;Turkmenistan;4146655
+211;Montgomery Exploration Corporation;1989;145;Andorra;85299366
+212;Richard Exploration Company;2006;625;Syria;13881106
+213;Middleton Astronomical Corporation;1988;443;Peru;53115075
+214;Brock Science Program;1982;661;Mozambique;19421016
+215;Schwartz Science Program;1994;826;Nauru;87514724
+216;Abbott Astronomical Agency;2002;990;Namibia;75846392
+217;Holman Astronomical Company;1982;340;Lesotho;15759385
+218;Cole Exploration Company;2001;538;Guinea-Bissau;94789165
+219;Hutchinson Science Corporation;1981;377;Faroe Islands;70264156
+220;Murphy Exploration Program;1989;251;Congo - Brazzaville;41761706
+221;Hoover Exploration Corporation;1987;947;Guam;95721452
+222;Peck Astronomical Corporation;1987;335;Belgium;54612423
+223;Schneider Exploration Corporation;1985;136;Cocos;72989375
+224;Ferrell Science Program;2008;769;Mali;78975202
+225;Spears Astronomical Corporation;1990;955;Vatican City;1020922
+226;Matthews Space Company;1983;612;St. Kitts & Nevis;29584718
+227;House Exploration Program;1995;120;Portugal;6221796
+228;Fletcher Exploration Company;1991;456;Philippines;98280540
+229;Brewer Science Program;1993;766;Gambia;17350151
+230;Nguyen Science Institution;2008;389;Montenegro;94170013
+231;Rivers Exploration Agency;1989;549;Croatia;15420489
+232;Holden Space Company;1999;167;Nigeria;82619890
+233;Daugherty Science Program;1999;408;Barbados;42378956
+234;Callahan Space Program;1990;452;Romania;8616761
+235;Levine Astronomical Corporation;1982;837;Vietnam;51186901
+236;Bass Exploration Corporation;1998;746;Guam;32108742
+237;Logan Astronomical Agency;1985;651;Croatia;19066698
+238;Velasquez Space Company;1999;523;Montenegro;64992774
+239;Cash Space Program;1995;277;Aruba;2570539
+240;Fletcher Astronomical Agency;1996;548;Netherlands;7525079
+241;Walton Exploration Company;2001;237;Tuvalu;36966913
+242;Sweeney Astronomical Corporation;2009;534;South Georgia & South Sandwich Islands;50828991
+243;Cunningham Space Company;2006;197;Netherlands;93692773
+244;Coleman Space Agency;1995;784;Chile;91723662
+245;Watson Exploration Program;1989;966;Iceland;83398669
+246;Clay Astronomical Program;1980;892;Papua New Guinea;74565769
+247;Perry Exploration Agency;1995;226;St. Barthélemy;10612829
+248;Perkins Exploration Institution;2007;475;Kyrgyzstan;42831300
+249;Stark Space Institution;2006;714;Antarctica;19278659
+250;Melendez Exploration Corporation;2010;904;St. Helena;47419353
+251;Terry Astronomical Agency;2008;678;Haiti;91338507
+252;Brewer Astronomical Program;2008;175;Jordan;81907216
+253;Dawson Exploration Program;2003;479;Turkmenistan;44355354
+254;Stein Exploration Company;1999;433;Russia;94339152
+255;Carey Space Corporation;1997;906;Montenegro;17724619
+256;Montgomery Science Company;1991;569;Central African Republic;70545724
+257;Beasley Astronomical Program;2009;263;Martinique;25802313
+258;Coleman Space Program;2007;370;Uruguay;99423605
+259;Barlow Space Institution;2004;404;Sint Maarten;9569306
+260;Schroeder Astronomical Institution;1990;460;Peru;82452301
+261;Miller Exploration Corporation;1980;307;Nicaragua;42797337
+262;York Exploration Company;2003;895;Taiwan;49248751
+263;Calhoun Astronomical Agency;1988;123;Timor-Leste;99339921
+264;Gregory Astronomical Program;1993;344;Mauritania;66431074
+265;Blake Space Corporation;1992;750;Denmark;59747488
+266;Cardenas Exploration Agency;2004;557;Vatican City;64415292
+267;Diaz Astronomical Institution;1998;899;Guyana;49436422
+268;Casey Astronomical Program;1986;921;Ecuador;30810645
+269;Gillespie Astronomical Corporation;1989;176;Greenland;79770740
+270;Rios Space Corporation;1990;728;Dominican Republic;35558754
+271;Warren Space Company;2008;294;Cuba;67844125
+272;Daniel Space Corporation;2010;640;Pitcairn Islands;84509685
+273;French Space Corporation;2005;197;Niue;88931778
+274;Figueroa Space Program;2005;385;French Guiana;43542068
+275;Pratt Space Company;1991;466;St. Barthélemy;95481619
+276;Austin Astronomical Agency;1994;436;Egypt;84566663
+277;Clarke Science Corporation;2007;409;Mali;89866270
+278;Gray Space Company;1992;155;Congo - Brazzaville;44351152
+279;Hernandez Space Agency;1980;399;Vanuatu;38439839
+280;Gallegos Space Institution;1984;992;Niue;77110803
+281;Ruiz Exploration Agency;2009;937;American Samoa;56601663
+282;Hoffman Science Company;1990;759;Nigeria;24913911
+283;Vinson Astronomical Program;1980;575;Jamaica;63214766
+284;Carpenter Astronomical Agency;1995;950;Liechtenstein;68372936
+285;Holt Science Institution;1997;198;Afghanistan;91366552
+286;Huff Exploration Corporation;1988;801;San Marino;82672013
+287;Gould Exploration Program;1997;279;Slovakia;1982728
+288;Phelps Exploration Company;1991;851;Guadeloupe;74647473
+289;Munoz Astronomical Agency;1992;782;Puerto Rico;43166739
+290;Caldwell Exploration Program;1999;776;Australia;42602090
+291;Pena Science Institution;2004;305;Azerbaijan;48097727
+292;Bentley Science Corporation;2003;316;Tunisia;88588252
+293;Cantu Astronomical Institution;1985;867;Latvia;40204526
+294;Whitehead Science Program;2008;786;Tanzania;29499296
+295;Snider Astronomical Agency;2010;105;St. Martin;92234563
+296;Guzman Space Institution;1985;693;Micronesia;90104094
+297;Marshall Science Institution;1985;438;Poland;98612295
+298;Pope Space Corporation;1980;442;Hungary;21348279
+299;Bowen Science Agency;1980;584;Belarus;44933007
+300;Lowe Space Company;2004;563;Sri Lanka;57926365
+301;Leonard Science Company;1989;527;Nigeria;98695286
+302;Wooten Space Company;1990;307;Andorra;52068471
+303;Walls Exploration Institution;1988;962;Honduras;39385576
+304;Klein Science Corporation;1984;174;Suriname;48491956
+305;Dorsey Space Program;1990;156;Hungary;26691333
+306;Dickerson Space Company;1989;576;Vatican City;79954909
+307;Boyd Astronomical Company;1984;417;Cook Islands;9348744
+308;Sullivan Science Agency;1986;201;Japan;82053308
+309;Aguirre Astronomical Agency;1990;395;Suriname;47596486
+310;Nguyen Science Institution;1989;564;Estonia;47001132
+311;Clements Exploration Company;1982;760;Åland Islands;82650317
+312;Frye Science Corporation;1997;148;Vatican City;37167600
+313;Richmond Exploration Company;1998;276;Montenegro;72132407
+314;Levine Space Institution;1990;359;Cameroon;67649534
+315;Arnold Science Agency;1989;278;Kuwait;28581326
+316;Martinez Space Program;2003;712;Pakistan;30002420
+317;Fletcher Space Company;1991;648;Palau;69594656
+318;Stewart Exploration Corporation;2005;557;Dominica;20676401
+319;Benson Exploration Corporation;1985;786;Marshall Islands;72444780
+320;Barr Exploration Company;1999;147;Åland Islands;21702808
+321;Neal Space Program;1987;733;Norway;30139108
+322;Huff Space Program;2007;331;Cayman Islands;85633052
+323;Bowen Science Corporation;1989;949;Jersey;23863496
+324;Hoover Exploration Company;1982;282;Gibraltar;5561223
+325;Pratt Astronomical Program;1980;830;Belgium;52653408
+326;Aguirre Exploration Corporation;2000;714;Czech Republic;84565179
+327;Boyd Science Institution;1988;794;Guinea-Bissau;29210424
+328;Chen Space Company;2007;559;Belize;9986842
+329;Ballard Exploration Program;1997;417;São Tomé & Príncipe;51244025
+330;Jacobs Space Agency;1986;498;Macau SAR China;27811512
+331;Gaines Space Institution;1990;404;Panama;21324030
+332;Gray Space Institution;2009;613;France;32641624
+333;Taylor Exploration Institution;1981;152;Singapore;93106630
+334;Craft Astronomical Institution;1995;139;Cambodia;75738464
+335;Newton Astronomical Corporation;2009;921;Kosovo;45448884
+336;Gibbs Astronomical Corporation;1995;532;Zambia;23721512
+337;Whitaker Exploration Program;2001;283;Turkey;28567719
+338;Adkins Science Institution;1983;608;Dominican Republic;77672195
+339;Wood Exploration Corporation;1984;467;Egypt;33148013
+340;Sampson Exploration Company;2002;267;Qatar;26371377
+341;Blair Science Corporation;1987;844;Jersey;19145187
+342;Garner Space Program;1982;210;Gambia;85556033
+343;Silva Science Company;2000;494;Iran;99451736
+344;Jones Space Corporation;2009;112;St. Lucia;59024222
+345;Hatfield Science Corporation;2001;645;Djibouti;93182503
+346;Bradshaw Science Agency;2006;376;Palau;83813742
+347;Rodgers Exploration Corporation;2004;711;Senegal;50931588
+348;Meyers Astronomical Institution;1985;623;Namibia;40010937
+349;Berger Astronomical Corporation;1984;607;Eritrea;20688590
+350;Walton Exploration Corporation;1980;899;Thailand;84406893
+351;Fox Exploration Program;1992;814;French Polynesia;82999520
+352;Trujillo Astronomical Institution;1991;107;Vanuatu;33311013
+353;Luna Astronomical Corporation;1998;303;Libya;53793116
+354;Blackwell Space Program;1989;717;China;62140193
+355;Conner Astronomical Program;1993;991;Singapore;35546571
+356;Norris Space Institution;1991;832;Australia;7797830
+357;Sharp Science Agency;1989;551;Russia;73898415
+358;Park Astronomical Institution;1993;110;Dominica;19100513
+359;Bernard Science Agency;1989;564;Guyana;36069578
+360;Mann Astronomical Corporation;1987;925;Ascension Island;33261274
+361;Riggs Astronomical Corporation;1985;851;Romania;29369780
+362;Powers Exploration Company;1994;490;Monaco;13700233
+363;Lamb Astronomical Corporation;1983;577;Guinea;29516126
+364;Fuller Science Agency;1989;363;South Korea;18207365
+365;Day Exploration Program;2000;445;Syria;3511578
+366;Perkins Exploration Program;2006;746;Bolivia;32742300
+367;Calhoun Astronomical Program;1980;252;Lebanon;93288485
+368;Cooper Space Institution;2006;669;Mexico;16892263
+369;Holcomb Astronomical Agency;1980;704;Burkina Faso;56084358
+370;Deleon Astronomical Company;2008;628;Nicaragua;60319696
+371;Randall Science Program;2009;985;Nigeria;46088415
+372;Pace Astronomical Program;2010;357;Samoa;35187915
+373;Duran Science Agency;1999;367;Kenya;71571872
+374;Gilliam Science Program;1996;201;Guinea-Bissau;48734849
+375;Bowen Science Corporation;2004;565;Malawi;53827540
+376;Thomas Space Program;1988;711;Cape Verde;19403411
+377;Patrick Astronomical Agency;1998;960;Slovenia;19573070
+378;Rivers Science Corporation;1991;141;South Sudan;75409333
+379;Serrano Science Program;1988;179;Ceuta & Melilla;69754166
+380;Ramirez Science Institution;1993;139;St. Helena;10028405
+381;Reed Space Program;1994;472;Ascension Island;53349842
+382;Sloan Astronomical Program;1986;269;Austria;81678735
+383;Harrison Space Program;1999;658;Liberia;94963626
+384;Wilkinson Exploration Program;1986;372;New Caledonia;50185210
+385;Gardner Space Agency;1988;150;Austria;70389546
+386;Yang Exploration Corporation;2004;729;Peru;25237875
+387;Roman Astronomical Institution;1994;790;Christmas Island;16883060
+388;Pace Astronomical Corporation;1998;919;Uganda;88090162
+389;Mckenzie Astronomical Corporation;2003;755;Zimbabwe;92401662
+390;Stafford Science Institution;2009;532;Ascension Island;69438082
+391;Richmond Exploration Company;1997;269;Czech Republic;8389535
+392;Schmidt Exploration Company;2009;442;Angola;70338218
+393;Montgomery Exploration Program;2010;155;Hong Kong SAR China;56233402
+394;Leonard Astronomical Institution;1984;197;Guam;11907320
+395;Nixon Science Institution;1986;900;Northern Mariana Islands;51338459
+396;Hooper Science Corporation;1998;227;Myanmar;54975556
+397;Stanley Science Institution;1982;489;United Kingdom;73709632
+398;Woodard Space Corporation;1982;143;Puerto Rico;63055619
+399;Chang Exploration Agency;2009;628;Moldova;86886628
+400;Roberts Exploration Institution;2005;773;Algeria;21912692
+401;Conley Exploration Agency;1996;268;Turkmenistan;31074507
+402;Brennan Space Institution;2009;964;Burundi;37183200
+403;Maynard Space Institution;1999;652;Côte d’Ivoire;99671647
+404;Barnes Exploration Company;1987;753;Laos;81440744
+405;Winters Exploration Company;1989;594;Nicaragua;38013776
+406;Newton Exploration Program;2007;754;Chile;89388577
+407;Rice Science Agency;2001;569;Tunisia;12918463
+408;Rowe Science Corporation;2005;325;Iraq;84548312
+409;Brennan Space Institution;1997;503;Palau;29462168
+410;Velazquez Science Agency;1992;801;Comoros;44028766
+411;Holloway Space Agency;2004;226;Bosnia & Herzegovina;41981904
+412;Tyson Exploration Agency;1984;967;Diego Garcia;99102652
+413;Shannon Science Corporation;1984;893;Ethiopia;72281303
+414;Buckley Space Program;2002;350;Mayotte;73335808
+415;Holcomb Space Program;1995;922;Iran;42729792
+416;Barr Exploration Institution;1998;404;Armenia;55957800
+417;Flores Exploration Program;1986;144;Pitcairn Islands;51129264
+418;Delaney Astronomical Agency;1987;185;Western Sahara;88447630
+419;Patton Space Institution;1999;363;Panama;29462367
+420;Workman Astronomical Agency;1990;741;Thailand;3782551
+421;Gill Exploration Company;2008;926;Diego Garcia;45786237
+422;Palmer Astronomical Company;1999;892;Gibraltar;2874970
+423;Hewitt Astronomical Institution;1997;575;Fiji;51342716
+424;Vinson Astronomical Institution;1990;729;Algeria;30316516
+425;Franks Space Corporation;1991;285;Liechtenstein;39796808
+426;Ramirez Exploration Program;2007;660;South Georgia & South Sandwich Islands;99249467
+427;Turner Astronomical Program;1998;717;Czech Republic;91775718
+428;Hendricks Science Agency;1980;586;Ireland;24500956
+429;Castro Exploration Program;2004;510;Brunei;74191116
+430;Glass Exploration Agency;1995;626;Finland;3014980
+431;Clayton Astronomical Program;1985;213;Mozambique;48261025
+432;Whitley Science Corporation;1984;192;United Arab Emirates;26054911
+433;Nelson Space Agency;1991;339;Marshall Islands;93203123
+434;Bryan Space Corporation;2005;987;Åland Islands;43959231
+435;Newton Space Institution;1994;657;Ceuta & Melilla;84807334
+436;Stafford Exploration Corporation;1998;195;Zambia;49617659
+437;Pate Space Program;2008;973;Libya;67379164
+438;Yates Exploration Program;1989;210;Cameroon;53217714
+439;Tucker Exploration Company;1988;358;French Guiana;51560335
+440;Puckett Astronomical Institution;2009;496;Mauritius;58866780
+441;Price Exploration Company;1980;714;Cuba;53896197
+442;Nixon Astronomical Institution;1988;573;Jamaica;49824450
+443;Rivers Science Corporation;2000;929;Croatia;48752291
+444;Harrison Science Program;1990;992;Solomon Islands;3798775
+445;Farley Exploration Program;1986;728;Cocos;2934865
+446;Taylor Astronomical Agency;1994;105;Indonesia;55790363
+447;Bauer Science Company;1983;947;Curaçao;97864816
+448;Acevedo Space Company;2005;464;Marshall Islands;61889583
+449;Lopez Exploration Company;1995;406;Andorra;13449541
+450;Walton Science Agency;1980;588;Diego Garcia;27167399
+451;Myers Exploration Program;1988;270;Sint Maarten;71488230
+452;Byrd Science Program;2000;437;Afghanistan;57754010
+453;Bradford Exploration Company;1985;715;Bulgaria;94489164
+454;Jennings Space Institution;1980;403;Thailand;74986945
+455;Jones Science Institution;1987;178;Netherlands;61267236
+456;Travis Exploration Program;1990;131;Chad;12101802
+457;Johnson Exploration Company;1984;442;China;88198904
+458;Harrell Astronomical Program;1996;151;Montserrat;11861033
+459;Fields Space Corporation;1993;763;Lesotho;71617048
+460;Rice Exploration Program;2005;597;Slovakia;14781488
+461;Jenkins Exploration Institution;2000;402;Bolivia;13949423
+462;Powers Astronomical Agency;1998;661;Vietnam;83906888
+463;Combs Astronomical Institution;1990;209;Bolivia;69259881
+464;Sellers Science Company;1980;834;Pakistan;84602798
+465;Lowe Exploration Corporation;1984;425;Guyana;66659251
+466;Shepard Astronomical Company;2007;887;Israel;59463872
+467;Good Space Company;1996;216;Myanmar;35451645
+468;Byrd Astronomical Agency;2001;590;Greece;31879457
+469;Schroeder Science Company;1991;433;Montenegro;38883766
+470;Short Space Agency;1998;603;Ascension Island;97732261
+471;Miles Astronomical Company;1989;757;U.S. Outlying Islands;71947710
+472;Zimmerman Astronomical Company;1997;522;Panama;9154068
+473;Wynn Astronomical Corporation;1991;357;Vanuatu;68963743
+474;Foreman Exploration Company;1991;233;American Samoa;88149464
+475;Pacheco Astronomical Company;1990;299;Malawi;43770904
+476;Merrill Exploration Program;1984;490;Tanzania;60150276
+477;Mckenzie Science Program;1982;351;Kyrgyzstan;59593539
+478;Wallace Space Institution;2002;119;Mauritius;4735001
+479;Young Space Company;1995;252;Singapore;47424368
+480;Hoffman Exploration Institution;1982;594;U.S. Virgin Islands;57761393
+481;Walter Space Corporation;1987;803;U.S. Outlying Islands;73698035
+482;Cobb Space Institution;2006;517;Libya;84241226
+483;Combs Astronomical Corporation;1988;367;Kiribati;28096232
+484;Curtis Science Institution;1999;656;Azerbaijan;87930215
+485;Cochran Space Company;2003;441;Thailand;53525935
+486;Chapman Science Program;1990;877;Côte d’Ivoire;31543445
+487;Spencer Science Program;1988;592;Peru;50975862
+488;Allen Astronomical Corporation;1996;216;Cambodia;55338769
+489;Fulton Exploration Agency;1991;508;St. Helena;9043140
+490;Mccall Science Program;1990;582;Micronesia;61353820
+491;Hatfield Science Corporation;2006;716;Sweden;10214300
+492;Gonzales Science Institution;2000;907;Fiji;9038918
+493;Wolf Science Institution;1999;453;Isle of Man;4645911
+494;Lowery Science Company;2008;208;Norway;87547503
+495;Decker Space Agency;1996;304;Kuwait;12487251
+496;Guerra Exploration Program;1986;387;Mayotte;92728231
+497;Farley Exploration Company;1980;164;Curaçao;45104978
+498;Wolf Astronomical Program;1987;292;Qatar;33426209
+499;Flynn Exploration Corporation;1984;125;Gambia;51046171
+500;Nieves Science Institution;1983;608;Senegal;92946857
+501;Albert Science Corporation;1990;485;Lebanon;90041784
+502;Rose Science Company;1991;930;Mexico;71407155
+503;Leon Space Corporation;1995;265;Madagascar;23590985
+504;Sherman Astronomical Corporation;2005;751;São Tomé & Príncipe;3031347
+505;Dodson Space Institution;2000;711;Bangladesh;36207789
+506;Fischer Space Agency;2007;782;Ireland;55942886
+507;Foley Science Institution;1997;384;Hungary;72742932
+508;Nichols Space Company;2010;293;Tokelau;2589136
+509;Hurley Exploration Company;2000;454;Namibia;18186607
+510;Rowe Science Agency;1989;886;Egypt;18746900
+511;Petty Space Institution;2006;696;Peru;78621636
+512;Everett Exploration Program;1991;155;Uzbekistan;93335820
+513;Fisher Astronomical Agency;2004;797;Latvia;47777180
+514;Pennington Exploration Company;2008;311;Myanmar;47312100
+515;Tucker Space Company;1994;482;São Tomé & Príncipe;98635160
+516;Hodges Exploration Agency;2008;724;Slovenia;52958928
+517;Hanson Science Corporation;1983;270;Hong Kong SAR China;40419083
+518;Barton Astronomical Corporation;1982;723;Cook Islands;61099255
+519;Chambers Exploration Program;1980;929;Costa Rica;71155659
+520;Merrill Space Corporation;1990;443;Montserrat;95952006
+521;Douglas Science Program;1998;630;Egypt;27379243
+522;Barton Space Institution;1996;858;Fiji;3646987
+523;Delacruz Science Program;1998;565;Cook Islands;32538760
+524;Thomas Space Agency;2002;974;Yemen;75939289
+525;Herman Science Institution;1995;266;Samoa;32707858
+526;Mcknight Space Program;2010;863;South Africa;35350610
+527;Gonzales Astronomical Agency;2009;114;Honduras;4819694
+528;Harper Science Company;1991;141;South Africa;65128932
+529;Wilkerson Space Agency;1993;222;Brunei;99381813
+530;Benton Astronomical Agency;1991;320;Ukraine;60074606
+531;Figueroa Space Agency;2001;681;Montenegro;49218372
+532;Dillon Space Company;1984;323;Tonga;53314223
+533;Carson Science Company;1995;159;Colombia;96210222
+534;Reese Astronomical Company;2010;392;Iran;95495255
+535;Sanchez Science Corporation;1994;332;Niger;85809097
+536;Moran Exploration Institution;1987;892;Rwanda;15128108
+537;Booker Astronomical Company;1980;120;China;92543606
+538;Estes Science Agency;1992;805;Diego Garcia;47738117
+539;Hardin Astronomical Institution;2002;352;Luxembourg;29512733
+540;Vasquez Exploration Agency;2002;881;Liechtenstein;17314444
+541;Avery Exploration Agency;1998;120;Syria;76314649
+542;Ford Space Program;2006;984;Uganda;3733343
+543;Mcdowell Astronomical Company;1994;192;Malta;56348890
+544;Mcdowell Exploration Corporation;1981;489;El Salvador;94521059
+545;Hopkins Astronomical Company;1981;190;Monaco;86354750
+546;Richards Science Institution;1980;125;Belarus;30148517
+547;Matthews Science Program;2009;438;Bangladesh;54404052
+548;Schneider Astronomical Company;1990;422;Malta;49755579
+549;Serrano Astronomical Institution;1990;426;Palau;57582992
+550;Monroe Space Company;1992;244;Belgium;83846247
+551;Johnston Astronomical Institution;1997;891;Norway;76793330
+552;Moody Space Institution;1998;411;Moldova;18568644
+553;Olson Science Corporation;2000;230;Panama;5426099
+554;Reese Astronomical Institution;2008;571;St. Vincent & Grenadines;61075054
+555;Allison Space Agency;1981;416;French Southern Territories;24334744
+556;Flynn Exploration Program;1988;202;China;45199084
+557;Dyer Astronomical Institution;2007;227;Russia;81368928
+558;Gonzalez Space Corporation;1993;683;Eritrea;50517538
+559;Welch Astronomical Agency;1984;923;Maldives;6652977
+560;Deleon Astronomical Company;1980;602;Timor-Leste;56550597
+561;Alvarado Space Institution;2009;904;Benin;47150747
+562;Mullen Science Program;2008;304;Réunion;98706033
+563;Glenn Exploration Corporation;1983;439;Vietnam;28369170
+564;Waters Astronomical Company;1981;554;Australia;25337184
+565;Wynn Science Program;1987;467;Syria;46122307
+566;Christensen Exploration Program;2002;195;Monaco;50517234
+567;Glass Space Agency;1984;539;Dominican Republic;63942707
+568;O'neil Astronomical Institution;1993;170;Japan;71840811
+569;Britt Space Company;1992;260;Moldova;58686727
+570;Simpson Space Company;1981;344;Sweden;61007480
+571;Irwin Exploration Agency;1994;962;Réunion;58722405
+572;Talley Astronomical Company;1984;294;Solomon Islands;98121313
+573;Burton Space Corporation;1993;687;Ukraine;59347462
+574;Newman Exploration Agency;2007;684;Cuba;2209666
+575;Wilcox Space Program;1987;961;Rwanda;72429952
+576;Taylor Exploration Program;1992;815;Gambia;68211322
+577;Griffin Astronomical Company;1994;481;Timor-Leste;68421531
+578;Sweeney Science Agency;1986;510;Afghanistan;87671278
+579;Foreman Space Company;1993;327;Malta;75671869
+580;Mendoza Astronomical Program;2001;107;Cayman Islands;58109795
+581;Crosby Science Institution;1987;260;Eritrea;34233840
+582;Blackwell Exploration Corporation;1998;297;Bulgaria;29501518
+583;Bradley Science Program;2010;579;Malaysia;49215036
+584;Franks Space Program;2009;745;Fiji;26305940
+585;Langley Space Program;2007;225;Papua New Guinea;34372421
+586;Fowler Astronomical Company;1984;758;Zimbabwe;68784650
+587;Kirk Astronomical Company;1993;686;Cambodia;17686124
+588;Blair Astronomical Agency;1988;127;Bahamas;70820403
+589;Reilly Astronomical Company;1981;810;Brunei;91918681
+590;Frye Exploration Company;1982;166;Caribbean Netherlands;45022868
+591;Avila Science Corporation;1997;422;Austria;66228589
+592;Ashley Space Program;2010;740;Benin;91214925
+593;Black Space Agency;1986;788;Burkina Faso;66957022
+594;Booth Astronomical Institution;1989;695;Ireland;9689693
+595;White Astronomical Agency;1982;249;Italy;99632928
+596;Solomon Astronomical Agency;2006;118;St. Martin;98667397
+597;Alvarado Science Corporation;2000;939;Ireland;71513520
+598;Barron Exploration Agency;1984;714;Rwanda;86581532
+599;Hines Space Agency;2005;682;Tuvalu;51444395
+600;Gallegos Science Agency;1998;384;Algeria;90812021
+601;Vaughan Astronomical Institution;1997;806;Serbia;56380053
+602;Roberts Space Agency;1997;204;Oman;38511381
+603;Cummings Space Corporation;2001;835;Christmas Island;65858665
+604;Becker Space Institution;1996;617;Montenegro;83114134
+605;Hodges Science Company;1997;860;Marshall Islands;49227084
+606;Nunez Astronomical Program;1995;621;Réunion;90112003
+607;Gonzales Science Program;1980;272;Slovakia;22031107
+608;Strong Exploration Agency;1997;506;Lesotho;88562588
+609;Nixon Science Program;1996;304;South Korea;81596166
+610;Donaldson Exploration Corporation;2008;149;Dominica;35685736
+611;Mills Exploration Agency;2007;722;Sweden;29827265
+612;Christensen Exploration Program;1985;586;Gibraltar;78509840
+613;Mccall Exploration Agency;1992;570;Suriname;18682351
+614;Hayes Astronomical Company;2001;451;Poland;78356153
+615;Caldwell Space Corporation;2007;341;United Arab Emirates;57570832
+616;Stewart Exploration Corporation;1981;137;Congo - Brazzaville;90990895
+617;Bell Science Program;1980;1000;Cuba;65103048
+618;Knight Science Agency;2005;380;Côte d’Ivoire;97642067
+619;Rice Space Corporation;2001;695;Pakistan;86439026
+620;Russo Space Institution;2006;192;Canada;41678387
+621;Tillman Exploration Corporation;2005;401;Germany;87251976
+622;Mejia Exploration Corporation;1993;356;Iraq;29596931
+623;Good Exploration Agency;2003;689;Liechtenstein;47881938
+624;Evans Space Company;1994;143;Dominica;64267933
+625;Dixon Science Company;1993;978;Egypt;6043042
+626;House Astronomical Corporation;1982;259;Western Sahara;29162365
+627;Pollard Science Program;1992;701;Kyrgyzstan;2062900
+628;David Exploration Program;1997;416;Somalia;44869493
+629;Mcgowan Science Agency;2007;742;Canada;52996787
+630;Perkins Science Company;1988;421;Ecuador;30425010
+631;Dennis Space Company;1983;471;Kiribati;52493448
+632;Underwood Exploration Program;1996;183;Chile;5470194
+633;Mcneil Astronomical Program;2006;743;Swaziland;72449032
+634;Wells Science Program;1995;905;Trinidad & Tobago;56557198
+635;Rowland Astronomical Institution;2001;761;St. Barthélemy;30058426
+636;Thornton Exploration Program;2007;769;Peru;84338391
+637;Mccarty Exploration Company;1990;927;St. Pierre & Miquelon;82105274
+638;Carver Space Agency;1980;755;Israel;95334991
+639;Shields Astronomical Company;1989;204;Estonia;34754667
+640;Vance Astronomical Company;1992;815;Mauritius;49247739
+641;Fuentes Astronomical Agency;2001;992;Syria;25890784
+642;Underwood Astronomical Company;2009;844;Bolivia;9741834
+643;Briggs Space Agency;1992;134;Sri Lanka;19845211
+644;Garcia Space Company;1996;250;Malawi;72694749
+645;Garza Exploration Program;1980;830;Mauritania;59406905
+646;Wilder Astronomical Company;2000;998;Samoa;68429406
+647;Patel Space Program;2005;375;Greece;62555673
+648;Nicholson Exploration Institution;2008;273;Armenia;52058829
+649;Faulkner Astronomical Corporation;1988;102;Ceuta & Melilla;43900092
+650;Dennis Astronomical Institution;1985;906;Antigua & Barbuda;53683374
+651;Montgomery Science Company;2010;750;Botswana;82132450
+652;Wolfe Space Agency;1983;932;Côte d’Ivoire;78063390
+653;Johns Science Program;1990;673;Mauritania;62043492
+654;Villarreal Exploration Agency;2005;107;Turks & Caicos Islands;31329279
+655;Cardenas Science Institution;1983;206;France;3044998
+656;Lindsey Astronomical Institution;2000;463;Senegal;72902420
+657;Poole Science Agency;1990;907;Namibia;57942002
+658;Farley Space Company;1992;730;Colombia;95608583
+659;Buckner Science Institution;1986;964;South Sudan;41804021
+660;Scott Space Program;1994;700;Palestinian Territories;5612326
+661;Carr Astronomical Agency;1998;705;Samoa;70791494
+662;Bird Astronomical Institution;1999;630;Guyana;20006876
+663;Anderson Exploration Program;1999;720;Russia;42777309
+664;Schultz Exploration Company;2000;265;Laos;16224063
+665;Valdez Astronomical Corporation;1995;964;Diego Garcia;38811154
+666;Cruz Astronomical Company;1997;250;Somalia;39283487
+667;Chavez Science Program;1987;443;Chile;41599923
+668;Mccormick Space Program;1993;161;Macau SAR China;59503784
+669;Bartlett Exploration Agency;1981;600;Estonia;42471237
+670;Newton Science Company;1998;412;Kenya;68913366
+671;Russo Science Company;2000;314;St. Kitts & Nevis;81961471
+672;Goodman Astronomical Program;1993;632;Belarus;24495032
+673;Cox Exploration Company;1990;696;Ethiopia;98785679
+674;Watson Science Agency;1991;587;Poland;10299672
+675;Bowers Space Program;1980;288;United Kingdom;40220317
+676;Roberts Science Company;1997;867;Antarctica;68907663
+677;Trujillo Science Institution;1982;974;Egypt;63468890
+678;Patrick Exploration Corporation;1982;605;Swaziland;44693579
+679;Butler Science Program;1995;197;Cuba;12924670
+680;Mitchell Astronomical Agency;1993;754;Papua New Guinea;90759780
+681;Moses Space Corporation;1981;336;Gibraltar;3442113
+682;Scott Space Institution;2002;328;Tonga;64738375
+683;Cantrell Science Institution;1985;204;Mauritius;32375932
+684;Clarke Space Corporation;1993;451;Burkina Faso;76889653
+685;Williamson Space Program;1995;954;Vatican City;56975062
+686;Leblanc Astronomical Company;1983;308;Germany;16626646
+687;Riddle Science Corporation;1983;236;Nepal;56481814
+688;Jarvis Science Company;2000;814;United Kingdom;7657444
+689;Francis Science Company;2009;240;Jersey;29585158
+690;Lynn Astronomical Agency;2004;978;Honduras;96737789
+691;Garrison Science Institution;2001;256;Equatorial Guinea;79028420
+692;Hopper Science Program;1987;387;St. Pierre & Miquelon;77653211
+693;Mcgee Exploration Company;2009;149;Uganda;18350041
+694;Lindsay Exploration Institution;1992;496;Haiti;85749177
+695;Parrish Science Agency;1989;710;Switzerland;42060141
+696;Melton Exploration Institution;1990;217;Cape Verde;74047654
+697;Stanton Science Agency;1987;548;Netherlands;9506076
+698;Daniel Exploration Program;2002;377;Cocos;67851820
+699;Leonard Space Corporation;1995;132;Sint Maarten;58943372
+700;Stone Science Company;1984;324;Iran;38477829
+701;Glass Exploration Agency;2007;519;St. Barthélemy;28184094
+702;Pate Astronomical Institution;1995;130;Greece;72441483
+703;Tucker Space Program;1984;406;Brunei;56204584
+704;Mendoza Science Agency;2005;904;Tokelau;51753217
+705;Petty Science Program;1983;489;Ethiopia;79219775
+706;Wolf Science Corporation;1988;107;Andorra;60773993
+707;Davenport Science Agency;1985;249;Guyana;28209685
+708;Peck Exploration Corporation;1997;194;Canary Islands;84571680
+709;Ryan Science Institution;1989;438;Pitcairn Islands;91724668
+710;Dejesus Exploration Corporation;1988;369;Gibraltar;47361749
+711;Fleming Exploration Company;1990;819;Morocco;86036064
+712;Berry Space Corporation;1995;959;Chad;94178781
+713;King Science Institution;1981;863;Guinea-Bissau;16141870
+714;Myers Exploration Institution;2005;659;Cyprus;91943798
+715;Williams Astronomical Corporation;1990;170;Isle of Man;79260340
+716;Hodge Space Institution;1996;223;Iran;18885076
+717;Knight Space Institution;1990;981;Cocos;97872060
+718;Sullivan Exploration Program;2000;818;Cape Verde;67874438
+719;Webster Exploration Agency;2007;166;El Salvador;2778269
+720;Avery Science Company;1995;474;Tajikistan;30792190
+721;Chase Space Program;1996;829;Central African Republic;23053928
+722;Pace Space Institution;2009;136;United States;5787465
+723;Salazar Exploration Corporation;2001;907;Togo;71639552
+724;Acevedo Astronomical Institution;2006;720;Eritrea;90132973
+725;Holland Science Institution;1986;733;Mauritius;41734910
+726;Richard Science Corporation;1997;348;Iraq;73981508
+727;Serrano Exploration Program;1982;456;Caribbean Netherlands;85264789
+728;Tran Space Corporation;2010;239;Portugal;88551835
+729;Reyes Exploration Agency;1994;910;Nicaragua;76824088
+730;Hodge Space Agency;1998;846;São Tomé & Príncipe;2147281
+731;Russell Space Corporation;1982;436;Albania;61741901
+732;Walsh Astronomical Institution;1983;776;Pitcairn Islands;94747198
+733;Vincent Space Institution;1984;629;Cape Verde;54775195
+734;Black Space Agency;2005;844;Bolivia;85748548
+735;Wiggins Science Institution;1985;577;Ecuador;73838342
+736;Collins Science Institution;2002;909;São Tomé & Príncipe;73151179
+737;Delaney Science Company;2001;423;Northern Mariana Islands;56909562
+738;Heath Exploration Program;1990;708;Burundi;46605784
+739;Vinson Science Agency;2009;769;Somalia;62220337
+740;Blake Astronomical Corporation;2004;304;Ascension Island;37685731
+741;Ewing Astronomical Company;1994;963;Libya;28871259
+742;Craft Science Institution;2010;292;New Caledonia;12719595
+743;Butler Space Program;1991;325;Kuwait;83789388
+744;Ayers Astronomical Program;1994;108;Tanzania;56982528
+745;Delgado Space Program;2000;636;Kosovo;60931239
+746;Bauer Exploration Company;1987;230;Bosnia & Herzegovina;72133273
+747;Nash Exploration Institution;1983;765;St. Martin;15174399
+748;Chen Science Agency;2009;188;U.S. Virgin Islands;71637567
+749;Carroll Science Program;1994;382;Norway;35968165
+750;Jacobson Space Corporation;1996;496;Iran;27176714
+751;O'brien Exploration Corporation;1985;831;Tuvalu;2734333
+752;Mcdonald Science Program;1985;511;Oman;14920912
+753;Richards Astronomical Institution;2002;294;Bolivia;82099439
+754;Hodge Space Program;1981;634;Turks & Caicos Islands;63281548
+755;Stark Astronomical Company;1991;528;Sudan;18314059
+756;Ford Science Agency;1998;151;Sierra Leone;68254131
+757;Peck Science Company;2010;653;Turkmenistan;90590486
+758;Nunez Astronomical Agency;1991;840;Botswana;62662442
+759;Wolf Space Agency;1987;481;French Guiana;90817467
+760;Waller Exploration Agency;1991;175;Brazil;9666502
+761;Mcmahon Space Agency;1990;877;Papua New Guinea;63938250
+762;Stafford Science Institution;1994;145;Sierra Leone;3569153
+763;Langley Space Agency;2007;432;Singapore;85405631
+764;Lynch Science Program;1996;868;Ghana;63634998
+765;Fox Space Company;1998;620;Eritrea;96865201
+766;Martin Astronomical Agency;1996;964;Turkmenistan;62492738
+767;Barnett Science Corporation;1992;565;Diego Garcia;36005764
+768;Murphy Exploration Corporation;1998;785;Laos;9231796
+769;Lindsay Exploration Company;2010;304;Morocco;50642757
+770;Foster Exploration Institution;1997;507;Réunion;84172504
+771;Hudson Exploration Agency;2005;584;Malaysia;69000410
+772;Mckinney Space Company;1981;799;Canada;27843202
+773;Berg Science Program;2005;504;Tanzania;3674979
+774;Cook Astronomical Company;1994;392;Lebanon;25953260
+775;Mclaughlin Exploration Program;1991;939;Bangladesh;73781607
+776;Chandler Astronomical Company;1993;869;Réunion;38748981
+777;Diaz Exploration Corporation;1987;515;Afghanistan;58460734
+778;Stanley Space Institution;2000;428;Congo - Kinshasa;98708796
+779;White Exploration Institution;1985;652;Malta;89548339
+780;Farmer Science Program;1999;466;Nepal;29667156
+781;Reid Astronomical Agency;1992;275;Ceuta & Melilla;56897893
+782;Horton Science Corporation;2006;378;Mongolia;16004745
+783;Holt Space Company;2010;384;Tajikistan;32120361
+784;Koch Exploration Agency;2008;310;Maldives;41815756
+785;Bright Exploration Corporation;2005;824;Guam;38427869
+786;Pratt Astronomical Program;1993;190;Ireland;92090340
+787;Macias Exploration Program;1980;917;Iran;30534588
+788;Hewitt Science Corporation;1997;751;Lebanon;7332094
+789;Morton Science Corporation;1988;332;Panama;33069944
+790;Hampton Astronomical Program;2010;675;Kosovo;27894486
+791;Bell Space Agency;1993;548;Denmark;74980412
+792;Bishop Astronomical Agency;1980;123;Cyprus;32420232
+793;Kramer Exploration Company;2009;943;St. Martin;36126558
+794;Gamble Space Program;1981;778;Cayman Islands;98094083
+795;Doyle Astronomical Program;1992;510;Malaysia;33377270
+796;Hardin Space Institution;1986;345;Uganda;41132109
+797;Leon Exploration Institution;1980;592;Niger;6773094
+798;Bruce Science Agency;2003;921;Curaçao;22059575
+799;Romero Astronomical Corporation;1989;973;French Guiana;14912384
+800;Phelps Science Corporation;2007;488;Libya;76577984
+801;Bailey Astronomical Company;1985;839;Equatorial Guinea;58963851
+802;Pratt Science Program;2006;420;Spain;46672215
+803;Estrada Astronomical Program;1986;354;Guadeloupe;57540347
+804;Wolf Exploration Company;1991;756;Gambia;1517508
+805;Blankenship Space Institution;2000;744;French Polynesia;17551909
+806;Banks Science Company;1998;113;Falkland Islands;50184258
+807;Wright Space Institution;1997;333;Guatemala;18747367
+808;Potts Exploration Agency;2008;277;Aruba;43188360
+809;Aguilar Exploration Corporation;1995;299;Turkey;29964229
+810;Taylor Science Institution;1990;997;St. Kitts & Nevis;16219028
+811;Benton Exploration Institution;1998;389;Tonga;64175474
+812;Lopez Space Institution;1990;138;Peru;95281934
+813;Blackburn Science Institution;1997;337;Egypt;87630706
+814;King Astronomical Institution;1992;738;French Guiana;41079672
+815;Russell Exploration Institution;1989;461;Switzerland;24499005
+816;Case Exploration Program;1981;100;Côte d’Ivoire;49672264
+817;Mccray Space Company;2000;503;Vanuatu;39542875
+818;Robertson Exploration Agency;2006;635;South Africa;87686340
+819;Mullen Space Agency;2008;267;Ukraine;85896270
+820;Hawkins Science Agency;2000;480;Cambodia;41175437
+821;Waller Exploration Agency;1995;524;Lebanon;56996994
+822;Fuller Exploration Program;1993;471;Canary Islands;29834966
+823;Mcfarland Science Program;2010;951;Gambia;37795375
+824;Munoz Space Agency;1980;323;Ghana;33943172
+825;Maldonado Astronomical Institution;1991;885;Kenya;38945434
+826;Chen Exploration Agency;2000;540;Namibia;64152365
+827;Tyler Science Corporation;1982;886;Rwanda;19490736
+828;Chapman Exploration Program;1981;405;Colombia;43767974
+829;Rowland Astronomical Institution;2010;251;Botswana;62133267
+830;Doyle Astronomical Program;1993;937;Palau;78546724
+831;Patel Astronomical Corporation;1983;690;Libya;48217818
+832;Byers Science Corporation;2000;429;Guinea;8150512
+833;White Exploration Agency;2001;320;Azerbaijan;40041224
+834;Roach Exploration Institution;1996;639;Guinea-Bissau;82274379
+835;Kirkland Space Company;2000;662;Slovenia;74106967
+836;Montgomery Exploration Agency;1985;631;India;43613326
+837;Allison Exploration Program;1991;824;Gambia;4257885
+838;Mosley Science Corporation;2007;267;Russia;98056152
+839;Davidson Exploration Institution;2008;989;Mauritius;20671223
+840;Morse Space Corporation;1989;862;Brazil;53964583
+841;Spence Exploration Program;1990;962;Kyrgyzstan;43068909
+842;Nichols Space Institution;1995;655;Kyrgyzstan;98902676
+843;Keith Astronomical Program;1981;466;United Arab Emirates;89052556
+844;Little Space Corporation;1988;410;Belize;46342078
+845;Weeks Space Company;1993;140;Sint Maarten;89474395
+846;Pacheco Exploration Company;2005;402;Belarus;20731820
+847;Dale Science Corporation;2008;963;Papua New Guinea;8498856
+848;Clements Exploration Corporation;1983;821;Finland;9518095
+849;Collier Science Agency;1998;400;Anguilla;27706160
+850;Acevedo Science Company;2010;738;Malawi;9370382
+851;Hubbard Space Company;1982;849;Kosovo;6293834
+852;Vargas Astronomical Company;1994;117;Turkmenistan;55905582
+853;Brennan Astronomical Company;2002;421;Western Sahara;29786849
+854;Bond Exploration Institution;2010;468;Samoa;53780309
+855;Fox Space Corporation;1996;974;St. Martin;82474826
+856;Valencia Astronomical Corporation;1994;335;Mali;38106510
+857;Robertson Astronomical Program;1998;486;Kiribati;38246103
+858;Boone Astronomical Program;2010;664;Hungary;82673655
+859;Walter Exploration Corporation;1992;689;Canary Islands;84446053
+860;Mccray Exploration Corporation;1990;711;Libya;12453564
+861;Hodge Space Program;2000;486;Kazakhstan;19839318
+862;Mccall Exploration Institution;1987;338;Brunei;14950017
+863;Bernard Exploration Agency;1990;311;Madagascar;80501659
+864;Dejesus Exploration Institution;1993;496;Mexico;75161857
+865;Durham Astronomical Institution;2002;393;Canary Islands;4120751
+866;Cotton Science Agency;2005;869;Switzerland;80390713
+867;Leblanc Science Agency;1988;721;Turkmenistan;1167282
+868;Schmidt Space Agency;1983;874;Angola;71701784
+869;Hodge Astronomical Company;1984;888;New Caledonia;79116581
+870;Maldonado Exploration Company;1990;407;Pakistan;67976467
+871;Henderson Science Program;1981;469;Luxembourg;2006865
+872;Burton Space Corporation;1993;950;Indonesia;71761556
+873;Madden Science Corporation;1999;748;Antigua & Barbuda;58150715
+874;Acevedo Astronomical Company;2006;203;China;10664988
+875;Duncan Space Institution;2002;389;Vatican City;67329549
+876;Pollard Science Agency;1980;836;Kyrgyzstan;2193463
+877;Donovan Space Institution;2002;608;Suriname;86190793
+878;Velazquez Space Corporation;2010;508;St. Helena;28624444
+879;Bryant Science Agency;2006;416;Haiti;9740475
+880;Hester Exploration Program;1995;989;Bulgaria;62333227
+881;Crane Exploration Corporation;2009;473;Brazil;39298185
+882;Crosby Science Agency;1999;143;Rwanda;75925883
+883;Lowery Exploration Company;2010;114;United Kingdom;36004169
+884;Stark Space Institution;1993;326;Northern Mariana Islands;86146288
+885;Banks Exploration Program;1981;594;Burundi;16076375
+886;Ochoa Space Program;2004;672;Samoa;39139365
+887;Shields Science Agency;1994;880;Northern Mariana Islands;99210585
+888;Vang Space Company;1981;295;Zimbabwe;57726256
+889;Rogers Science Program;1990;141;Gibraltar;18523538
+890;Powers Exploration Company;1987;422;Switzerland;59063641
+891;Perkins Astronomical Agency;1991;781;Austria;33569940
+892;Hull Science Institution;1984;884;Benin;11010562
+893;Gamble Exploration Corporation;1988;802;Congo - Kinshasa;42363212
+894;Chaney Space Company;2010;609;Moldova;77746106
+895;Cook Space Program;2001;117;Poland;41395937
+896;Rose Science Company;2000;789;Monaco;98149429
+897;Matthews Astronomical Agency;1989;674;Slovenia;48117526
+898;Alvarez Space Agency;1999;773;Malawi;87400267
+899;Forbes Exploration Agency;2002;925;Venezuela;66034644
+900;Conrad Astronomical Institution;2010;809;India;33397772
+901;Preston Astronomical Agency;2000;778;Northern Mariana Islands;35563836
+902;Gonzalez Space Program;1991;921;Namibia;88024577
+903;Daniel Exploration Institution;1997;177;Togo;62640896
+904;Walter Astronomical Agency;2009;677;Åland Islands;85985730
+905;Howard Space Program;1987;849;French Southern Territories;82755046
+906;Allen Exploration Agency;1996;235;Sint Maarten;77556680
+907;Gill Astronomical Institution;1980;923;Albania;98238341
+908;Daniels Exploration Agency;1980;251;Mayotte;10784438
+909;Quinn Exploration Agency;2009;418;Algeria;11608892
+910;Shelton Astronomical Institution;1993;891;Swaziland;85318576
+911;Swanson Science Agency;1981;426;Isle of Man;47351444
+912;Ashley Space Corporation;1986;274;Yemen;76141002
+913;Perkins Space Institution;2005;265;India;80256181
+914;Erickson Astronomical Program;1995;306;Lebanon;13000882
+915;Mcgowan Exploration Agency;2000;891;Mali;55414242
+916;Livingston Science Corporation;2004;796;Cayman Islands;14231938
+917;Dudley Exploration Agency;2002;484;Syria;66896243
+918;Rogers Space Agency;1997;450;Paraguay;45817358
+919;Knowles Science Company;1995;623;Mongolia;43807167
+920;Black Astronomical Corporation;1997;379;Bolivia;76788919
+921;Mcconnell Astronomical Agency;1987;376;Micronesia;13692074
+922;Abbott Science Program;1989;452;Mali;95461210
+923;Pratt Exploration Program;1996;132;Belize;16788234
+924;Blankenship Astronomical Institution;1990;828;Belgium;36281413
+925;Perkins Exploration Program;2003;215;Jamaica;90418788
+926;Langley Space Agency;1994;816;Guadeloupe;89840047
+927;Berry Exploration Agency;1995;931;Indonesia;49188985
+928;Phelps Exploration Agency;1980;993;Benin;82824602
+929;Jacobson Space Company;1989;883;South Africa;10768173
+930;Hinton Exploration Agency;2010;683;Czech Republic;98790405
+931;Thornton Exploration Institution;1996;252;Grenada;37346072
+932;Bird Astronomical Corporation;2010;671;India;72279059
+933;Vasquez Exploration Program;1989;985;Timor-Leste;14344145
+934;Mcneil Astronomical Company;1991;129;Azerbaijan;49317429
+935;Barnett Science Program;1991;221;Pakistan;26403999
+936;Richardson Science Agency;1996;823;Iraq;29293810
+937;Hebert Science Company;2007;864;Sweden;70487923
+938;Dejesus Astronomical Institution;2006;119;Greenland;96832630
+939;Flores Science Company;1996;453;Moldova;99711479
+940;Byrd Space Program;1985;323;Russia;31726334
+941;Caldwell Space Agency;1980;716;Italy;76078386
+942;Reese Astronomical Company;1989;552;Trinidad & Tobago;61613470
+943;Harding Space Agency;2010;713;Puerto Rico;64439201
+944;Estes Space Agency;1982;937;Romania;5610058
+945;Bean Science Program;1990;599;Ethiopia;34009391
+946;Spence Science Institution;1998;586;Nauru;13407540
+947;Bell Astronomical Company;1986;892;Turkey;48692571
+948;Carey Science Agency;2009;333;St. Kitts & Nevis;83937620
+949;Reese Exploration Corporation;1993;755;Jersey;50380763
+950;Blackburn Space Company;1997;279;Kenya;72675580
+951;Hopper Astronomical Company;1985;139;Mozambique;26664166
+952;Todd Astronomical Company;1982;806;French Southern Territories;72515691
+953;Puckett Science Company;1997;367;Kenya;91270117
+954;Hull Astronomical Institution;1995;835;Denmark;48736018
+955;Sexton Space Agency;2006;584;Kenya;48121949
+956;Waller Astronomical Corporation;2008;745;Ascension Island;94398632
+957;Davis Space Program;2006;504;Kyrgyzstan;17267548
+958;Meyers Astronomical Company;1999;476;São Tomé & Príncipe;2707451
+959;Murphy Science Institution;1993;147;Netherlands;53282398
+960;Rich Science Program;1999;591;Poland;83199843
+961;Campbell Science Program;2008;593;Timor-Leste;45046693
+962;Ortega Exploration Company;1989;593;Belgium;70457112
+963;Thompson Space Program;1991;969;Madagascar;43156208
+964;Osborn Science Company;1985;146;Dominican Republic;36620344
+965;Berry Space Institution;1991;336;Uzbekistan;73134003
+966;Lambert Astronomical Company;1991;257;Chad;14230857
+967;Jennings Science Company;2003;374;Faroe Islands;50629052
+968;Macdonald Exploration Company;1985;261;St. Barthélemy;67030947
+969;Yang Astronomical Company;2009;824;Ascension Island;16245348
+970;Perkins Exploration Corporation;1988;878;Mozambique;38539082
+971;Bates Science Corporation;1989;553;Egypt;92878342
+972;Trujillo Space Program;1997;154;South Georgia & South Sandwich Islands;70006769
+973;Hall Exploration Institution;2005;779;Micronesia;88130586
+974;Clarke Astronomical Company;1981;388;Yemen;75225269
+975;Walter Exploration Company;2002;677;Mongolia;61853032
+976;Noel Astronomical Company;1998;140;Macedonia;38666158
+977;Downs Astronomical Program;1984;469;Fiji;21247527
+978;Ryan Space Institution;1999;120;Germany;73711879
+979;Chandler Astronomical Corporation;1988;818;Vanuatu;62203143
+980;Page Space Institution;1984;127;Afghanistan;9030711
+981;Hall Exploration Company;1983;150;Namibia;24460464
+982;Bennett Astronomical Corporation;1997;931;Turkey;17187457
+983;Reese Science Corporation;1993;807;Uganda;55142605
+984;Erickson Exploration Company;2007;854;Greece;58215844
+985;Tillman Science Company;2003;948;Burundi;26054164
+986;Hubbard Astronomical Corporation;2000;134;Comoros;83911784
+987;Sharpe Space Company;2003;517;Timor-Leste;4973934
+988;Black Astronomical Agency;1997;238;Malawi;50401753
+989;Harris Science Agency;1994;535;Cayman Islands;75289351
+990;Dale Astronomical Institution;1997;271;Maldives;34296355
+991;Mcpherson Astronomical Institution;1997;908;Puerto Rico;6967831
+992;Chaney Astronomical Agency;1986;219;Armenia;90087962
+993;Blair Astronomical Institution;2010;725;Mayotte;62955918
+994;Blackburn Astronomical Institution;1993;287;Sierra Leone;65372342
+995;Alvarado Science Program;1983;670;French Guiana;85582755
+996;Farley Astronomical Agency;2003;173;Angola;73885101
+997;Nash Astronomical Corporation;1999;735;Gambia;75279044
+998;Decker Astronomical Agency;1991;303;Mozambique;52767597
+999;Kelley Astronomical Program;1994;938;St. Pierre & Miquelon;42276755
+1000;Roberson Exploration Program;1995;609;South Korea;55199982

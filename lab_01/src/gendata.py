@@ -160,7 +160,7 @@ def gen_cosmonauts(cosmonauts: dict, space_programs: dict):
         growth = mass + random.randint(90, 110)
         space_program_id = random.choice(list(space_programs.keys()))
 
-        cosmonauts[i] = [name, birth_year, growth, mass, space_program_id]
+        cosmonauts[i] = [name, birth_year, mass, growth, space_program_id]
 
 
 def gen_relationships(
