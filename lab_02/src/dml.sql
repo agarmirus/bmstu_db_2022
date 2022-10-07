@@ -148,7 +148,41 @@ select round(avg(price))
 from cte;
 
 -- 23. Инструкция SELECT, использующая рекурсивное обобщенное табличное выражение
+with recursive rec_cte (id, name, birth_year, space_program_id) as
+(
+    select csm1.id, csm1.name, csm1.birth_year, csm1.space_program_id
+    from cosmonauts csm1
+    where csm1.id = 995
+    union all
+    select csm2.id, csm2.name, csm2.birth_year, csm2.space_program_id
+    from cosmonauts csm2 inner join rec_cte rc on rc.id + 1 = csm2.id
+)
+select *
+from rec_cte;
 
 -- 24. Оконные функции. Использование конструкций MIN/MAX/AVG OVER()
+select stlt_name,
+       avg(price) over(partition by astro_object_id) avg_price,
+       min(price) over(partition by astro_object_id) min_price,
+       max(price) over(partition by astro_object_id) max_price,
+       astro_object_id
+from satellites;
 
 -- 25. Оконные функции для устранения дублей
+insert into space_programs (id, name, foundation_year, workers_count, country, budget)
+select MAX(id) + 1, 'Kerbal Space Program', 2015, 500, 'Kerbin', MAX(budget)
+from space_programs;
+
+insert into space_programs (id, name, foundation_year, workers_count, country, budget)
+select MAX(id) + 1, 'Kerbal Space Program', 2015, 500, 'Kerbin', MAX(budget)
+from space_programs;
+
+with cte (num, name, country) as
+(
+    select row_number() over (partition by name, country order by sp.id) as num, name, country
+    from space_programs sp
+    where sp.id >= 995
+)
+select name, country
+from cte
+where num = 1;
