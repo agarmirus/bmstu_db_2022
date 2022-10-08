@@ -177,12 +177,12 @@ insert into space_programs (id, name, foundation_year, workers_count, country, b
 select MAX(id) + 1, 'Kerbal Space Program', 2015, 500, 'Kerbin', MAX(budget)
 from space_programs;
 
-with cte (num, name, country) as
+with sp_pr (num, name, country) as
 (
     select row_number() over (partition by name, country order by sp.id) as num, name, country
     from space_programs sp
     where sp.id >= 995
 )
 select name, country
-from cte
+from sp_pr
 where num = 1;
