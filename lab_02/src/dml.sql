@@ -74,10 +74,13 @@ from satellites
 order by fast_launch desc;
 
 -- 11. Создание новой временной локальной таблицы из результирующего набора данных инструкции SELECT
---select *
---into temp lenticular_galaxy
---from galaxies
---where galaxy_type = 'Линзообразная';
+select *
+into temp lenticular_galaxy
+from galaxies
+where galaxy_type = 'Линзообразная';
+
+select *
+from lenticular_galaxy;
 
 -- 12. Инструкция SELECT, использующая вложенные коррелированные подзапросы в качестве производных таблиц в предложении FROM.
 select tall_cosmonauts.name, tall_cosmonauts.growth, sp.name
@@ -177,12 +180,25 @@ insert into space_programs (id, name, foundation_year, workers_count, country, b
 select MAX(id) + 1, 'Kerbal Space Program', 2015, 500, 'Kerbin', MAX(budget)
 from space_programs;
 
-with cte (num, name, country) as
+with sp_pr (num, name, country) as
 (
     select row_number() over (partition by name, country order by sp.id) as num, name, country
     from space_programs sp
     where sp.id >= 995
 )
 select name, country
-from cte
+from sp_pr
 where num = 1;
+
+-- Защита. Вывести искусственные спутники в спиральной,
+-- стоимость которых варьируется от 3 до 10 миллионов единиц
+with spiral_glx_ao (ao_id, glx_id, glx_name, glx_type) as
+(
+    select ao.id, glx.id, glx.name, glx.galaxy_type
+    from astro_objects ao inner join galaxies glx on ao.galaxy_id = glx.id
+    where glx.galaxy_type = 'Спиральная'
+)
+select stlt.id, stlt.stlt_name, stlt.price, sga.glx_name, sga.glx_type
+from satellites stlt inner join spiral_glx_ao sga on stlt.astro_object_id = sga.ao_id
+where stlt.price between 3000000 and 10000000
+order by price;
