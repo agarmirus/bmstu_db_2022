@@ -36,3 +36,25 @@ create or replace function old_csms() returns table (csm_name text, csm_birth_ye
 
 select *
 from old_csms();
+
+-- Рекурсивная функция
+create or replace function fib(n int) returns int
+    as 
+    $$
+    begin
+        if n = 0 or n = 1 then
+            return 1;
+        elsif n > 1 then
+            return fib(n - 1) + fib(n - 2);
+        end if;
+        
+        return 0;
+    end;
+    $$
+    language plpgsql;
+
+select *
+from fib(10);
+
+-- Хранимая процедура с параметрами
+
