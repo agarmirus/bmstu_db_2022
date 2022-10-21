@@ -69,3 +69,16 @@ create or replace procedure add_sp(sp_name text, sp_year int, sp_wc int, sp_coun
 call add_sp('Kerbal Space Program', 2015, 500, 'Kerbin', 10000000);
 
 -- Рекурсивная хранимая процедура
+create or replace procedure add_sp_n(sp_name text, sp_year int, sp_wc int, sp_country text, sp_budget int, n int = 1)
+    as
+    $$
+    begin
+        if n > 0 then
+            call add_sp(sp_name, sp_year, sp_wc, sp_country, sp_budget);
+            call add_sp_n(sp_name, sp_year, sp_wc, sp_country, sp_budget, n - 1);
+        end if;
+    end;
+    $$
+    language plpgsql;
+
+call add_sp_n('Kerbal Space Program', 2015, 500, 'Kerbin', 10000000, 2);
