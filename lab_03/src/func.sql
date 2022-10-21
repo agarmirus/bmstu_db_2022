@@ -1,7 +1,7 @@
 -- Скалярная функция
 create or replace function is_even(value int) returns boolean
     language sql
-    return $1 % 2 = 0;
+    return value % 2 = 0;
 
 select *
 from space_programs
@@ -13,7 +13,7 @@ create or replace function get_glx_aos(glx_id int) returns table (ao_name text, 
     $$
     select astro_object_name, astro_object_type
     from astro_objects
-    where galaxy_id = $1
+    where galaxy_id = glx_id
     $$
     language sql;
 
@@ -57,4 +57,15 @@ select *
 from fib(10);
 
 -- Хранимая процедура с параметрами
+create or replace procedure add_sp(sp_name text, sp_year int, sp_wc int, sp_country text, sp_budget int)
+    as 
+    $$
+    insert into space_programs (id, name, foundation_year, workers_count, country, budget)
+    select MAX(id) + 1, sp_name, sp_year, sp_wc, sp_country, sp_budget
+    from space_programs;
+    $$
+    language sql;
 
+call add_sp('Kerbal Space Program', 2015, 500, 'Kerbin', 10000000);
+
+-- Рекурсивная хранимая процедура
