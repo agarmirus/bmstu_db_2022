@@ -28,7 +28,6 @@ create or replace function old_csms() returns table (csm_name text, csm_birth_ye
     begin        
         select avg(birth_year) into avg_birth_year
         from cosmonauts;
-    
         return query select name, birth_year from cosmonauts where birth_year < avg_birth_year;
     end;
     $$
@@ -82,3 +81,25 @@ create or replace procedure add_sp_n(sp_name text, sp_year int, sp_wc int, sp_co
     language plpgsql;
 
 call add_sp_n('Kerbal Space Program', 2015, 500, 'Kerbin', 10000000, 2);
+
+-- Хранимая процедура с курсором
+create or replace procedure drop_sp(sp_name text)
+    as
+    $$
+    declare sp_id int;
+    declare curs cursor for select id from space_programs where name = sp_name;
+    begin
+        open curs;
+        loop
+            fetch curs into sp_id;
+            if sp_id is null then
+                exit;
+            end if;
+            delete from space_programs where id = sp_id;
+        end loop;
+        close curs;
+    end;
+    $$
+    language plpgsql;
+
+call drop_sp('Kerbal Space Program');
