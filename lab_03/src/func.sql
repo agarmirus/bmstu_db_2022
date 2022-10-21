@@ -29,7 +29,7 @@ create or replace function old_csms() returns table (csm_name text, csm_birth_ye
         select avg(birth_year) into avg_birth_year
         from cosmonauts;
     
-        return select name, birth_year from cosmonauts where birth_year < avg_birth_year;
+        return query select name, birth_year from cosmonauts where birth_year < avg_birth_year;
     end;
     $$
     language plpgsql;
