@@ -78,7 +78,7 @@ create or replace procedure add_sp_n(sp_name text, sp_year int, sp_wc int, sp_co
 call add_sp_n('Kerbal Space Program', 2015, 500, 'Kerbin', 10000000, 2);
 
 -- Хранимая процедура с курсором
-create or replace procedure drop_sp(sp_name text) as
+create or replace procedure delete_sp(sp_name text) as
     $$
     declare sp_id int;
     declare curs cursor for select id from space_programs where name = sp_name;
@@ -96,7 +96,7 @@ create or replace procedure drop_sp(sp_name text) as
     $$
     language plpgsql;
 
-call drop_sp('Kerbal Space Program');
+call delete_sp('Kerbal Space Program');
 
 -- Триггер AFTER
 create or replace function tr1_func() returns trigger as
