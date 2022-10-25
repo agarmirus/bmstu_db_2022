@@ -48,4 +48,8 @@ returns table (s_name text, s_type text, ao_id int) as
 
 select * from clr_table_func(987);
 
-
+-- Хранимая процедура
+create or replace clr_proc() as
+    $$
+    $$
+    language plpython3u;
