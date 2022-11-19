@@ -1,4 +1,4 @@
- create extension plpython3u;
+create extension plpython3u;
 
 -- Скалярная функция
 create or replace function clr_scalar_func(a float8) returns float8 as 
