@@ -1,7 +1,9 @@
 -- Скалярная функция
-create or replace function is_even(value int) returns boolean
-    language sql
-    return value % 2 = 0;
+create or replace function is_even(value int) returns boolean as
+    $$
+    select (value % 2 = 0)
+    $$
+    language sql;
 
 select *
 from space_programs
