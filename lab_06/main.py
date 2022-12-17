@@ -130,10 +130,27 @@ def task_8(cur):
     print("\nРезультат:", rec[0])
 
 def task_9(cur):
-    pass
+    cur.execute("""
+    create table if not exists head
+    (
+        id int primary key,
+        name text,
+        spid int,
+
+        foreign key (spid) references space_programs(id)
+    );
+    """)
 
 def task_10(cur):
-    pass
+    name = input("Введите ФИО: ")
+    spid = int(input("Введите ID компании: "))
+
+    cur.execute("""
+    insert into head
+    (id, name, spid)
+    select coalesce(max(id), 1) + 1, %s, %s
+    from head;
+    """, (name, spid))
 
 def execute(cmd: int, cur):
     if cmd == 0:
